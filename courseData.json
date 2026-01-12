@@ -1,0 +1,260 @@
+{
+  "figma_design": {
+    "ru": {
+      "title": "Графический дизайн в редакторе FIGMA",
+      "levels": {
+        "Начальный уровень": [
+          "основы редактора Figma",
+          "контуры, фигуры, слои",
+          "создание объемных изображений",
+          "контраст, цветовой контраст",
+          "перспективу, изометрию"
+        ],
+        "Базовый уровень": [
+          "основы создания логотипов, 3D иконок, стикерпаков",
+          "создание фирменного стиля",
+          "принципы инфографики",
+          "правила рисования веб-баннеров",
+          "основы веб-дизайна (создание лендинга)"
+        ]
+      }
+    },
+    "en": {
+      "title": "Graphic Design in Figma",
+      "levels": {
+        "Beginner level": [
+          "Figma editor basics",
+          "contours, shapes, layers",
+          "creating volumetric images",
+          "contrast, color contrast",
+          "perspective, isometry"
+        ],
+        "Basic level": [
+          "basics of creating logos, 3D icons, sticker packs",
+          "creating corporate identity",
+          "principles of infographics",
+          "rules for drawing web banners",
+          "basics of web design (landing page creation)"
+        ]
+      }
+    }
+  },
+  "scrath_coding": {
+    "ru": {
+      "title": "Программирование на языке Scratch",
+      "levels": {
+        "Подготовительный уровень": [
+          "алгоритм, переменные",
+          "координаты в 2D-плоскости",
+          "перемещения игровых объектов",
+          "управление c помощью мыши и клавиатуры"
+        ],
+        "Начальный уровень": [
+          "алгоритмы и причинно-следственные связи",
+          "циклы, условия, события, функции (блоки)",
+          "параллельное выполнение команд",
+          "создание многоуровневых игр",
+          "интерфейс и заставки"
+        ],
+        "Базовый уровень": [
+          "сложные условия и циклы",
+          "функции с аргументами",
+          "модули рисования и преобразования текста",
+          "списки"
+        ],
+        "Средний уровень": [
+          "режим на одного/двух игроков",
+          "создание эффекта 3D на плоскости",
+          "сложные игровые анимации",
+          "использование аудиоэффектов"
+        ],
+        "Продвинутый уровень": [
+          "машинное обучение с использованием веб-камеры",
+          "локальные и глобальные переменные",
+          "модуль для работы с видео, определение движения",
+          "определение положения элементов лица",
+          "создание игровых профилей"
+        ]
+      }
+    },
+    "en": {
+      "title": "Scratch programming language",
+      "levels": {
+        "Introductory level": [
+          "algorithm, variables",
+          "coordinates in 2D plane",
+          "movement of game objects",
+          "mouse and keyboard control"
+        ],
+        "Beginner level": [
+          "algorithms and cause-and-effect relationships",
+          "cycles, conditions, events, functions (blocks)",
+          "parallel execution of commands",
+          "creation of multilevel games",
+          "interface and screensavers"
+        ],
+        "Basic level": [
+          "complex conditions and cycles",
+          "functions with arguments",
+          "text drawing and transformation modules",
+          "lists"
+        ],
+        "Intermediate level": [
+          "single/two player mode",
+          "creating a 3D effect on a plane",
+          "complex game animations",
+          "use of audio effects"
+        ],
+        "Advanced level": [
+          "machine learning using webcam",
+          "local and global variables",
+          "module for working with video, motion detection",
+          "determination of the position of the face features",
+          "creating game profiles"
+        ]
+      }
+    }
+  },
+  "web_development": {
+    "ru": {
+      "title": "Создание сайтов. Front-end разработка",
+      "levels": {
+        "Начальный уровень": [
+          "Введение в HTML",
+          "Базовый CSS синтаксис",
+          "Работа с блочной моделью",
+          "Flexbox основы",
+          "Создание простых веб-страниц"
+        ],
+        "Базовый уровень": [
+          "Flexbox для создания гибких контейнеров",
+          "семантика и теги в HTML",
+          "создание сеток CSS GRID",
+          "верстка по шаблону ПО Figma"
+        ],
+        "Средний уровень": [
+          "DOM и JavaScript, программное создание элементов страницы",
+          "события и интерактивность сайта",
+          "отладка с помощью инструментов разработчика",
+          "анонимные функции, this, понятие классов",
+          "планирование событий"
+        ],
+        "Продвинутый уровень": [
+          "Функции высшего порядка",
+          "Асинхронный JavaScript (Promise, Async/Await)",
+          "Работа с DOM",
+          "Модули ES6",
+          "Обработка событий"
+        ],
+        "Дополнительный уровень": [
+          "React и концепцию SPA", 
+          "JSX синтаксис, компоненты, import/export",
+          "систему контроля версий (GitHub)",
+          "FLUX архитектуру",
+          "основы Redux"
+        ]
+      }
+    },
+    "en": {
+      "title": "Web Development",
+      "levels": {
+        "Beginner level": [
+          "Introduction to HTML",
+          "Basic CSS syntax",
+          "Working with the box model",
+          "Flexbox basics",
+          "Creating simple web pages"
+        ],
+        "Basic level": [
+          "Flexbox for creating flexible containers",
+          "semantics and tags in HTML",
+          "creating CSS GRIDs",
+          "layout by Figma template"
+        ],
+        "Intermediate level": [
+          "DOM and JavaScript, programmatic creation of page elements",
+          "events and site interactivity",
+          "debugging with developer tools",
+          "anonymous functions, this, the concept of classes",
+          "event planning"
+        ],
+        "Advanced level": [
+          "Higher-order functions",
+          "Aysnchronous JavaScript (Promise, Async/Await)",
+          "Working with DOM",
+          "ES6 Modules",
+          "Event handling"
+        ],
+        "Additional level": [
+          "Higher-order functions",
+          "Aysnchronous JavaScript (Promise, Async/Await)",
+          "Working with DOM",
+          "ES6 Modules",
+          "Event handling"
+        ]
+      }
+    }
+  },
+  "gamedev_roblox": {
+    "ru": {
+      "title": "Разработка 3D-игр в ROBLOX",
+      "levels": {
+        "Начальный уровень": [
+          "координаты в 3D-пространстве",
+          "основы языка Lua",
+          "команды для перемещения игровых элементов",
+          "переменные, условия",
+          "создание простейших игр в Roblox"
+        ],
+        "Базовый уровень": [
+          "массивы",
+          "создание игрового магазина",
+          "анимации, диалоги",
+          "использование Surface Gui"
+        ],
+        "Средний уровень": [
+          "поиск пути",
+          "использование аудио ресурсов",
+          "сохранение игровых данных",
+          "атрибуты и события"
+        ],
+        "Продвинутый уровень": [
+          "мультиплеер",
+          "формат json",
+          "RemoteEvent",
+          "сопрограммы"
+        ]
+      }
+    },
+    "en": {
+      "title": "Creating 3D games in Roblox",
+      "levels": {
+        "Beginner level": [
+          "coordinates in 3D space",
+          "basics of the Lua language",
+          "commands for moving game elements",
+          "variables, conditions",
+          "creating simple games in Roblox"
+        ],
+        "Basic level": [
+          "arrays",
+          "creating a play market",
+          "animations, dialogues",
+          "using Surface GUI"
+        ],
+        "Intermediate level": [
+          "pathfinding",
+          "use of audio resources",
+          "saving game data",
+          "attributes and events"
+        ],
+        "Advanced level": [
+          "multiplayer",
+          "json format",
+          "remote event",
+          "coroutines"
+        ]
+      }
+    }
+  }
+}

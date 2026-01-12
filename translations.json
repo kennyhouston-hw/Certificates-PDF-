@@ -1,0 +1,34 @@
+{
+    "ru": {
+        "selectCourseOption": "Выберите курс",
+        "levelLabel": "Уровень:",
+        "crtTitle": "сертификат",
+        "crtLevel": "Начальный уровень",
+        "cptConfirm": "СЕРТИФИКАТ ПОДТВЕРЖДАЕТ, ЧТО:",
+        "cptLevelPrefix": "успешно закончил(а)",
+        "cptLevelSuffix": "курса:",
+        "cptSkills": "ИЗУЧИЛ(А) темы:",
+        "txtCeo": "Винников Константин Владимирович",
+        "cptCeo": "Директор ООО «Онлайн-школа программирования»",
+        "cptInfo": "ООО «Онлайн-школа программирования» · ОГРН 1186952015645 · Образовательная лицензия Л035-01257-69/00191630 ",
+        "pdfErrorMessagePrefix": "Произошла ошибка при создании PDF:",
+        "pdfErrorMessageSuffix": ". Если вы используете фоновое изображение, убедитесь, что оно доступно через CORS.",
+        "studentNameRequired": "Поле 'Имя ученика' обязательно для заполнения."
+    },
+    "en": {
+        "selectCourseOption": "Выберите курс",
+        "levelLabel": "Level:",
+        "crtTitle": "certificate",
+        "crtLevel": "Initial Level",
+        "cptConfirm": "THIS CERTIFICATE CONFIRMS THAT:",
+        "cptLevelPrefix": "has successfully completed",
+        "cptLevelSuffix": "of the course:",
+        "cptSkills": "STUDIED topics:",
+        "txtCeo":"Vinnikov Konstantin Vladimirovich",
+        "cptCeo": "SEO of HELLO STEM PTE. LTD.",
+        "cptInfo": "HELLO STEM PTE. LTD. · 68 Circular Road, #02-01, 049422, Singapore",
+        "pdfErrorMessagePrefix": "An error occurred while creating the PDF:",
+        "pdfErrorMessageSuffix": ". If you are using a background image, make sure it is available via CORS.",
+        "studentNameRequired": "Поле 'Имя ученика' обязательно для заполнения."
+    }
+}
