@@ -29,7 +29,7 @@ export const CertificatePreview = forwardRef<HTMLDivElement, CertificatePreviewP
     return (
       <div
         ref={ref}
-        className="relative w-[842px] h-[595px] overflow-hidden bg-white text-foreground"
+        className="relative w-[842px] h-[595px] overflow-hidden bg-white text-gray-900"
       >
         <div
           className="absolute top-0 left-0 flex h-full w-[200px] items-center justify-center bg-cover bg-center"
@@ -45,20 +45,20 @@ export const CertificatePreview = forwardRef<HTMLDivElement, CertificatePreviewP
           </div>
         </div>
 
-        <p className="absolute top-[40px] right-[40px] z-1 text-right text-xs/5 *:tracking-normal text-foreground">
+        <p className="absolute top-[40px] right-[40px] z-1 text-right text-xs/5 *:tracking-normal text-gray-900">
           {formattedDate}
         </p>
         {/* Flows top to bottom so a two-line name pushes the rest down instead of overlapping it. */}
-        <div className="absolute top-[112px] left-[240px] z-1 flex w-[562px] flex-col text-foreground">
-          <p className="text-[10px]/3 tracking-wider text-foreground/60 uppercase">
+        <div className="absolute top-[112px] left-[240px] z-1 flex w-[562px] flex-col text-gray-900">
+          <p className="text-[10px]/3 tracking-wider text-gray-900/60 uppercase">
             {langData.cptConfirm}
           </p>
           <p className="mt-2 text-[28px]/8">{name}</p>
-          <p className="mt-8 text-[10px]/3 tracking-wider text-foreground/60 uppercase">
+          <p className="mt-8 text-[10px]/3 tracking-wider text-gray-900/60 uppercase">
             {levelCaption}
           </p>
           <p className="mt-2 text-[18px]/6">{courseTitle && `«${courseTitle}»`}</p>
-          <p className="mt-[30px] text-[10px]/3 tracking-wider text-foreground/60 uppercase">
+          <p className="mt-[30px] text-[10px]/3 tracking-wider text-gray-900/60 uppercase">
             {competencies ? langData.cptCompetencies : langData.cptSkills}
           </p>
           <div
@@ -84,10 +84,10 @@ export const CertificatePreview = forwardRef<HTMLDivElement, CertificatePreviewP
         <p className="absolute bottom-[84px] left-[240px] z-1 text-xs/5 tracking-wide">
           {langData.txtCeo}
         </p>
-        <p className="absolute bottom-[68px] left-[240px] z-1 w-full max-w-[562px] text-[10px]/3 tracking-wide text-foreground/50">
+        <p className="absolute bottom-[68px] left-[240px] z-1 w-full max-w-[562px] text-[10px]/3 tracking-wide text-gray-900/50">
           {langData.cptCeo}
         </p>
-        <p className="absolute bottom-[40px] left-[240px] z-1 w-full max-w-[562px] text-[8px]/3 tracking-wide text-foreground/40">
+        <p className="absolute bottom-[40px] left-[240px] z-1 w-full max-w-[562px] text-[8px]/3 tracking-wide text-gray-900/40">
           {langData.cptInfo}
         </p>
 
