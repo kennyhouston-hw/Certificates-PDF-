@@ -2,6 +2,7 @@ import { useRef, useState } from "react";
 import { CertificateForm } from "@/components/CertificateForm";
 import { CertificatePreview } from "@/components/CertificatePreview";
 import { ErrorDialog } from "@/components/ErrorDialog";
+import { ScaledPreview } from "@/components/ScaledPreview";
 import { useCertificateForm } from "@/hooks/useCertificateForm";
 import { generateCertificatePdf } from "@/lib/pdf";
 
@@ -27,22 +28,24 @@ function App() {
   };
 
   return (
-    <main className="flex min-h-screen items-center justify-center p-5 bg-white">
-      <div className="container flex w-full flex-col justify-center gap-8 md:flex-row">
+    <main className="flex min-h-screen items-top sm:items-center justify-center p-5 bg-white">
+      <div className="container flex w-full flex-col justify-center gap-2 sm:gap-6 lg:flex-row">
 
-        <section className="flex flex-2 flex-col items-center justify-center max-w-fit rounded-2xl overflow-hidden">
-          <CertificatePreview
-            ref={previewRef}
-            name={form.name}
-            courseTitle={form.courseTitle}
-            skills={form.skills}
-            formattedDate={form.formattedDate}
-            levelCaption={form.levelCaption}
-            certLevelLabel={form.certLevelLabel}
-            template={form.template}
-            lang={form.lang}
-            langData={form.langData}
-          />
+        <section className="flex min-w-0 flex-2 flex-col items-center justify-center p-4 sm:p-20 bg-muted/60 rounded-4xl">
+          <ScaledPreview width={842} height={595}>
+            <CertificatePreview
+              ref={previewRef}
+              name={form.name}
+              courseTitle={form.courseTitle}
+              skills={form.skills}
+              formattedDate={form.formattedDate}
+              levelCaption={form.levelCaption}
+              certLevelLabel={form.certLevelLabel}
+              template={form.template}
+              lang={form.lang}
+              langData={form.langData}
+            />
+          </ScaledPreview>
         </section>
 
         <CertificateForm

@@ -49,7 +49,7 @@ export function CertificateForm({
 }: CertificateFormProps) {
   return (
     <form
-      className="flex h-fit max-w-92 flex-1 flex-col gap-3 p-6 bg-white rounded-4xl border"
+      className="flex h-fit w-full flex-col gap-3 p-6 bg-white rounded-4xl border lg:w-92 lg:shrink-0"
       onSubmit={(e) => e.preventDefault()}
     >
       <div className="mb-2">

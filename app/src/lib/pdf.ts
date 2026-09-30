@@ -8,6 +8,12 @@ export async function generateCertificatePdf(node: HTMLElement): Promise<void> {
     scale: 4,
     useCORS: true,
     logging: false,
+    // The on-screen preview is scaled down to fit narrow screens; render the clone unscaled.
+    onclone: (doc) => {
+      doc.querySelectorAll<HTMLElement>("[data-scale-wrapper]").forEach((el) => {
+        el.style.transform = "none";
+      });
+    },
   });
 
   const pdf = new jsPDF({

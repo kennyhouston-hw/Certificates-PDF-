@@ -1,9 +1,9 @@
 import { forwardRef } from "react";
 import { cn } from "@/lib/utils";
+import type { CertificateTemplate, Lang, Translations } from "@/types/certificate";
 
 // Public files resolved against the build base, not the domain root.
 const asset = (path: string) => `${import.meta.env.BASE_URL}${path}`;
-import type { CertificateTemplate, Lang, Translations } from "@/types/certificate";
 
 interface CertificatePreviewProps {
   name: string;
