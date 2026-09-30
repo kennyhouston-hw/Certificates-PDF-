@@ -1,0 +1,26 @@
+ru:
+  selectCourseOption: Выберите курс
+  levelLabel: "Уровень:"
+  crtTitle: сертификат
+  cptConfirm: "СЕРТИФИКАТ ПОДТВЕРЖДАЕТ, ЧТО:"
+  cptSkills: "ИЗУЧИЛ(А) темы:"
+  cptCompetencies: "Приобретённые компетенции:"
+  txtCeo: Винников Константин Владимирович
+  cptCeo: Директор ООО «Онлайн-школа программирования»
+  cptInfo: "ООО «Онлайн-школа программирования» · ОГРН 1186952015645 · Образовательная лицензия Л035-01257-69/00191630 "
+  pdfErrorMessagePrefix: "Произошла ошибка при создании PDF:"
+  pdfErrorMessageSuffix: . Если вы используете фоновое изображение, убедитесь, что оно доступно через CORS.
+  studentNameRequired: Заполните имя ученика, чтобы создать сертификат
+en:
+  selectCourseOption: Выберите курс
+  levelLabel: "Level:"
+  crtTitle: certificate
+  cptConfirm: "THIS CERTIFICATE CONFIRMS THAT:"
+  cptSkills: "STUDIED topics:"
+  cptCompetencies: "Acquired Competencies:"
+  txtCeo: Vinnikov Konstantin Vladimirovich
+  cptCeo: CEO HELLO STEM PTE. LTD.
+  cptInfo: "HELLO STEM PTE. LTD. · 68 Circular Road, #02-01, 049422, Singapore"
+  pdfErrorMessagePrefix: "An error occurred while creating the PDF:"
+  pdfErrorMessageSuffix: . If you are using a background image, make sure it is available via CORS.
+  studentNameRequired: Заполните имя ученика, чтобы создать сертификат

@@ -1,0 +1,24 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: mobile-development
+title:
+  ru: Мобильная разработка
+  en: Mobile development
+levels:
+  - id: completion
+    skills:
+      ru:
+        - знакомство с платформой AppSheet и создание чата
+        - добавление учетной записи в чат
+        - добавление личных сообщений в чат
+        - отправка файлов в личных сообщениях
+        - добавление в друзья
+        - лента новостей
+      en:
+        - introducing the AppSheet platform and creating a chat room
+        - adding an account to chat
+        - adding private messages to chat
+        - sending files in private messages
+        - add friends
+        - news feed

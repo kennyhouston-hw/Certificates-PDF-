@@ -1,0 +1,22 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: 2d-artist
+title:
+  ru: "2D художник: основы профессии"
+  en: "2D artist: the basics of the profession"
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - "основы редактора Figma: контуры, фигуры, слои"
+        - основы композиции
+        - контраст, цветовой контраст, градиент
+        - эффекты, текст, иконки
+        - жанры иллюстраций
+      en:
+        - "the basics of the Figma editor: stroke, shape, layer"
+        - composition basics
+        - contrast, color contrast
+        - effects, text
+        - genres of illustrations

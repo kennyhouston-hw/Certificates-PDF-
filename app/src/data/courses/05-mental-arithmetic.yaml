@@ -1,0 +1,103 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+# Название курса на сертификате своё для каждого уровня (courseTitle).
+# EN-темы продвинутого уровня в макете были на русском — переведены, проверьте.
+
+id: mental-arithmetic
+title:
+  ru: Ментальная арифметика
+  en: Mental Arithmetic
+levels:
+  - id: preliminary
+    courseTitle:
+      ru: "Ментальная арифметика: Простой счёт в сложении и вычитании"
+      en: "Mental Arithmetic: Simple Addition and Subtraction"
+    skills:
+      ru:
+        - Освоение нижних косточек
+        - Освоение цифры 5
+        - Освоение цифры 6
+        - Освоение цифры 7
+        - Освоение цифры 8
+        - Освоение цифры 9
+      en:
+        - Mastering the Lower Beads
+        - Mastering the Number 5
+        - Mastering the Number 6
+        - Mastering the Number 7
+        - Mastering the Number 8
+        - Mastering the Number 9
+  - id: beginner
+    courseTitle:
+      ru: "Ментальная арифметика: Помощь брата в сложении и вычитании"
+      en: "Mental Arithmetic: The Brother Method in Addition and Subtraction"
+    skills:
+      ru:
+        - Формулы «Помощь брата» +1, -1
+        - Формулы «Помощь брата» +2, -2
+        - Формулы «Помощь брата» +3, -3
+        - Формулы «Помощь брата» +4, -4
+      en:
+        - «Brother Method» Formulas +1, −1
+        - «Brother Method» Formulas +2, −2
+        - «Brother Method» Formulas +3, −3
+        - «Brother Method» Formulas +4, −4
+  - id: basic
+    courseTitle:
+      ru: "Ментальная арифметика: Помощь друга в сложении и вычитании"
+      en: "Mental Arithmetic: The Friend Method in Addition and Subtraction"
+    skills:
+      ru:
+        - Формулы «Помощь друга» +1, -1
+        - Формулы «Помощь друга» +2, -2
+        - Формулы «Помощь друга» +3, -3
+        - Формулы «Помощь друга» +4, -4
+        - Формулы «Помощь друга» +5, -5
+        - Формулы «Помощь друга» +6, -6
+        - Формулы «Помощь друга» +7, -7
+        - Формулы «Помощь друга» +8, -8
+        - Формулы «Помощь друга» +9, -9
+      en:
+        - «Friend Method» Formulas +1, −1
+        - «Friend Method» Formulas +2, −2
+        - «Friend Method» Formulas +3, −3
+        - «Friend Method» Formulas +4, −4
+        - «Friend Method» Formulas +5, −5
+        - «Friend Method» Formulas +6, −6
+        - «Friend Method» Formulas +7, −7
+        - «Friend Method» Formulas +8, −8
+        - «Friend Method» Formulas +9, −9
+  - id: intermediate
+    courseTitle:
+      ru: "Ментальная арифметика: Помощь семьи в сложении и вычитании"
+      en: "Mental Arithmetic: Fact Families in Addition and Subtraction"
+    skills:
+      ru:
+        - Формулы «Помощь семьи» +6, -6
+        - Формулы «Помощь семьи» +7, -7
+        - Формулы «Помощь семьи» +8, -8
+        - Формулы «Помощь семьи» +9, -9
+        - Произвольный счет
+      en:
+        - «Fact Families» Formulas +6, −6
+        - «Fact Families» Formulas +7, −7
+        - «Fact Families» Formulas +8, −8
+        - «Fact Families» Formulas +9, −9
+        - Random Calculations
+  - id: advanced
+    courseTitle:
+      ru: "Ментальная арифметика: Умножение и деление"
+      en: "Mental Arithmetic: Multiplication and Division"
+    skills:
+      ru:
+        - Таблица умножения
+        - Умножение и деление на однозначные числа
+        - Умножение и деление на двузначные числа
+        - Умножение и деление на трехзначные числа
+        - "Умножение и деление: особые случаи"
+      en:
+        - Multiplication table
+        - Multiplication and division by single-digit numbers
+        - Multiplication and division by two-digit numbers
+        - Multiplication and division by three-digit numbers
+        - "Multiplication and division: special cases"

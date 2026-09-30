@@ -1,0 +1,84 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: python
+title:
+  ru: Программирование на языке Python
+  en: Python programming language
+levels:
+  - id: preliminary
+    skills:
+      ru:
+        - условия, циклы, функции в формате блоков
+        - переменные и списки
+        - работа с библиотекой Turtle
+        - создание простой анимации
+        - обработка событий с клавиатуры
+        - команды ввода и вывода информации
+      en:
+        - conditions, loops, and functions in block-based programming
+        - variables and lists
+        - working with the Turtle library
+        - creating simple animations
+        - handling keyboard events
+        - input and output commands
+  - id: beginner
+    skills:
+      ru:
+        - переменные, списки, типы данных
+        - условия, циклы, функции
+        - создание консольных программ
+        - создание программ с графическим интерфейсом
+        - работа с файлами (открытие, чтение, запись)
+        - знакомство с классами и наследованием
+      en:
+        - variables, lists, and data types
+        - conditions, loops, and functions
+        - creating console applications
+        - developing programs with graphical user interfaces (GUIs)
+        - working with files (opening, reading, writing)
+        - introduction to classes and inheritance
+  - id: basic
+    skills:
+      ru:
+        - объектно-ориентированное программирование (ООП)
+        - библиотека Arcade для создания 2D игр
+        - основы создания игр и построения игровой логики
+        - движение объектов, анимация, звуки
+        - работа с физическим движком
+      en:
+        - object-oriented programming (OOP)
+        - the Arcade library for creating 2D games
+        - fundamentals of game development and game logic design
+        - object movement, animation, and sound
+        - working with a physics engine
+  - id: intermediate
+    skills:
+      ru:
+        - создание чат-ботов для Телеграм
+        - работа с базами данных
+        - работа с запросами
+        - структуры данных (списки, словари)
+        - обработка исключений
+      en:
+        - creating Telegram chatbots
+        - working with databases
+        - handling queries
+        - data structures (lists, dictionaries)
+        - exception handling
+  - id: advanced
+    skills:
+      ru:
+        - архитектура фреймворка Django
+        - принципы создания серверных веб-приложений
+        - паттерн Model-View-Template (MTV)
+        - POST-запросы и GET-запросы
+        - регистрация и авторизация пользователя на сайте
+        - основы HTML и CSS
+      en:
+        - Django framework architecture
+        - principles of building server-side web applications
+        - Model-View-Template (MVT) pattern
+        - POST and GET requests
+        - user registration and authentication on websites
+        - fundamentals of HTML and CSS

@@ -1,0 +1,24 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: computer-literacy
+title:
+  ru: Компьютерная грамотность
+  en: Computer literacy
+levels:
+  - id: completion
+    skills:
+      ru:
+        - работа с файловой системой ОС
+        - использование браузера и эффективный поиск информации
+        - работа с электронной почтой
+        - "облачные офисные программы: документы, презентации, таблицы"
+        - безопасность в интернете и цифровой этикет
+        - генерация контента с помощью нейросетей
+      en:
+        - file system management
+        - web browsing and effective information search
+        - managing email
+        - "cloud office applications: documents, presentations, spreadsheets"
+        - internet security and digital etiquette
+        - content generation using neural networks

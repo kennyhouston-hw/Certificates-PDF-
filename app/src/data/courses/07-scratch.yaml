@@ -1,0 +1,74 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: scratch
+title:
+  ru: Программирование на языке Scratch
+  en: Scratch programming language
+levels:
+  - id: preliminary
+    skills:
+      ru:
+        - координаты в 2D-плоскости
+        - перемещения игровых объектов
+        - управление с помощью мыши и клавиатуры
+        - использование переменных
+      en:
+        - coordinates on 2D plane
+        - movement of game objects
+        - mouse and keyboard control
+        - using variables
+  - id: beginner
+    skills:
+      ru:
+        - алгоритм и параллельное выполнение
+        - циклы, условия и события
+        - спрайты и клоны
+        - переменные
+        - функции
+      en:
+        - algorithm and parallel execution
+        - loops, conditions, and events
+        - sprites and clones
+        - variables
+        - functions
+  - id: basic
+    skills:
+      ru:
+        - сложные условия и циклы
+        - функции с аргументами
+        - модуль для рисования
+        - преобразование текста в речь
+        - использование списков
+      en:
+        - complex conditions and loops
+        - functions with arguments
+        - pen module
+        - text-to-speech conversion
+        - using lists
+  - id: intermediate
+    skills:
+      ru:
+        - режим на одного/двух игроков
+        - создание эффекта 3D на плоскости
+        - сложные игровое анимации
+        - особенности звукового сопровождения
+      en:
+        - single-player and two-player modes
+        - creating 3D effect on a 2D plane
+        - complex game animations
+        - features of sound design
+  - id: advanced
+    skills:
+      ru:
+        - машинное обучение с использованием веб-камеры
+        - особенности локальных и глобальных переменных
+        - работа с видео и отслеживание движения
+        - определение положения элементов лица
+        - создание игровых профилей
+      en:
+        - machine learning using a webcam
+        - features of local and global variables
+        - working with video and motion tracking
+        - face element position detection
+        - creating game profiles

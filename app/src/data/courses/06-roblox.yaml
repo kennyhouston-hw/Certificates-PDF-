@@ -1,0 +1,76 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: roblox
+title:
+  ru: Разработка 3D-игр в ROBLOX
+  en: Creating 3D games in Roblox
+levels:
+  - id: preliminary
+    skills:
+      ru:
+        - основы работы в программе Roblox Studio
+        - работа со свойствами объектов
+        - знакомство с основами скриптов в Roblox Studio
+        - базовые приёмы построения игровых уровней
+      en:
+        - basics of working with Roblox Studio
+        - manipulating object properties
+        - introduction to scripting fundamentals in Roblox Studio
+        - basic techniques for building game levels
+  - id: beginner
+    skills:
+      ru:
+        - свойства расположения объектов в 3D-пространстве
+        - основы написания кода на языке Lua
+        - базовые команды для перемещения игровых элементов
+        - создание и использование переменных и условий
+        - создание простейших игр в Roblox
+      en:
+        - properties of object positioning in 3D space
+        - fundamentals of coding in Lua
+        - basic commands for moving game elements
+        - creating and using variables and conditional statements
+        - developing simple games in Roblox
+  - id: basic
+    skills:
+      ru:
+        - работа с массивами
+        - создание игрового магазина
+        - создание анимаций
+        - создание и использование диалогов
+        - использование Surface GUI
+      en:
+        - working with arrays
+        - creating an in-game store
+        - creating animations
+        - creating and using dialogues
+        - using Surface GUI
+  - id: intermediate
+    skills:
+      ru:
+        - использование поиска пути
+        - создание музыкального плеера
+        - работа с сохранением данных в игре
+        - работа с Attributes
+        - работа с событиями
+      en:
+        - implementing pathfinding
+        - creating a music player
+        - handling in-game data saving
+        - working with Attributes
+        - working with events
+  - id: advanced
+    skills:
+      ru:
+        - создание мультиплеерных игр
+        - работа с форматом json
+        - создание системы телепортации
+        - работа с RemoteEvent
+        - создание и использование Coroutine
+      en:
+        - developing multiplayer games
+        - working with JSON format
+        - creating a teleportation system
+        - working with RemoteEvent
+        - creating and using Coroutines

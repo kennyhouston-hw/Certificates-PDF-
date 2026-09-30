@@ -1,0 +1,83 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: web-development
+title:
+  ru: Создание сайтов. Front-end разработка
+  en: Website development
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - основы верстки в HTML
+        - стилизация, анимация и трансформация на CSS
+        - адаптивная верстка под разные экраны
+        - хостинг, домен и публикация в интернете
+        - инструмент Flexbox
+      en:
+        - basics of HTML layout
+        - styling, animation and transformation with CSS
+        - responsive layout for different screen sizes
+        - hosting, domain, and publishing on the web
+        - Flexbox layout model
+  - id: basic
+    skills:
+      ru:
+        - семантические теги и валидация кода
+        - псевдоклассы и псевдоэлементы
+        - трехмерные трансформации и переменные
+        - инструмент создания сеток CSS GRID
+        - использование локальных шрифтов и сторонних библиотек
+        - взаимодействие с пакетом Figma
+      en:
+        - semantic tags and code validation
+        - pseudo-classes and pseudo-elements
+        - 3D transformations and variables
+        - CSS Grid layout model
+        - using local fonts and third-party libraries
+        - integration with Figma
+  - id: intermediate
+    skills:
+      ru:
+        - основы языка JavaScript
+        - взаимодействие с DOM и создание элементов через скрипты
+        - события и интерактивность сайта
+        - отладка с помощью инструментов разработчика
+        - стрелочные функции, this, понятие классов
+        - планирование событий
+      en:
+        - basics of JavaScript
+        - DOM manipulation and creating elements via scripts
+        - events and website interactivity
+        - debugging with developer tools
+        - arrow functions, this, and the concept of classes
+        - event scheduling
+  - id: advanced
+    skills:
+      ru:
+        - масштабируемая графика SVG
+        - элемент HTML Canvas
+        - взаимодействие в SVG и Canvas через JavaScript
+        - анимации и математические функции для создания графики
+      en:
+        - scalable Vector Graphics (SVG)
+        - HTML Canvas element
+        - interacting with SVG and Canvas via JavaScript
+        - animations and mathematical functions for graphics creation
+  - id: additional
+    courseTitle:
+      ru: Создание сайтов. Front-end разработка [React]
+      en: Website development [React]
+    skills:
+      ru:
+        - библиотека React.js и концепция SPA
+        - JSX синтаксис, компоненты, import/export
+        - система контроля версий Git и хостинг GitHub
+        - FLUX архитектура
+        - основы библиотеки React Redux
+      en:
+        - React.js library and Single Page Application (SPA) concept
+        - JSX syntax, components, import/export
+        - version control system Git and GitHub hosting
+        - FLUX architecture
+        - basics of React Redux library

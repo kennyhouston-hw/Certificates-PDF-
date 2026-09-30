@@ -1,0 +1,64 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: unity
+title:
+  ru: Разработка игр в UNITY
+  en: Game development. Unity
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - основы языка C#
+        - интерфейс Unity
+        - объекты, скрипты, компоненты
+        - создание и использование анимаций
+        - создание и настройка UI
+      en:
+        - basics of C# programming language
+        - Unity interface
+        - game objects, scripts and components
+        - creating and using animations
+        - creating and configuring UI
+  - id: basic
+    skills:
+      ru:
+        - основы физической системы в 2D
+        - события и кривые в анимации
+        - тайловая система
+        - интеграция звуков
+        - корутины
+      en:
+        - fundamentals of 2D physics system
+        - animation events and curves
+        - tilemap system
+        - sound integration
+        - coroutines
+  - id: intermediate
+    skills:
+      ru:
+        - основы 3D - материалы, текстуры объекты, скайбоксы
+        - источники света
+        - системы частиц и лучей
+        - система навигации
+        - основы физической системы в 3D
+      en:
+        - "basics of 3D: materials, textures, objects, skyboxes"
+        - light sources
+        - particle and ray systems
+        - navigation system
+        - basics of 3D physics system
+  - id: advanced
+    skills:
+      ru:
+        - пакет Cinemachine
+        - создание простого ИИ
+        - архитектуры сетевых игр
+        - основы создания многопользовательских игр
+        - версионный контроль BitBucket
+      en:
+        - Cinemachine package
+        - creating a simple AI
+        - game network architectures
+        - basics of multiplayer game development
+        - version control with BitBucket

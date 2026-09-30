@@ -1,0 +1,53 @@
+# Уровни, общие для всех курсов. Порядок здесь — порядок в списке выбора.
+# title — название в списке и на боковой плашке сертификата,
+# caption — строка над названием курса.
+
+- id: preliminary
+  title:
+    ru: Подготовительный уровень
+    en: Preliminary Level
+  caption:
+    ru: "Успешно закончил(а) подготовительный уровень курса:"
+    en: "Has successfully completed the Preliminary Level of the course:"
+- id: beginner
+  title:
+    ru: Начальный уровень
+    en: Beginner Level
+  caption:
+    ru: "Успешно закончил(а) начальный уровень курса:"
+    en: "Has successfully completed the Beginner Level of the course:"
+- id: basic
+  title:
+    ru: Базовый уровень
+    en: Basic Level
+  caption:
+    ru: "Успешно закончил(а) базовый уровень курса:"
+    en: "Has successfully completed the Basic Level of the course:"
+- id: intermediate
+  title:
+    ru: Средний уровень
+    en: Intermediate Level
+  caption:
+    ru: "Успешно закончил(а) средний уровень курса:"
+    en: "Has successfully completed the Intermediate Level of the course:"
+- id: advanced
+  title:
+    ru: Продвинутый уровень
+    en: Advanced Level
+  caption:
+    ru: "Успешно закончил(а) продвинутый уровень курса:"
+    en: "Has successfully completed the Advanced Level of the course:"
+- id: additional
+  title:
+    ru: Дополнительный уровень
+    en: Additional Level
+  caption:
+    ru: "Успешно закончил(а) дополнительный уровень курса:"
+    en: "Has successfully completed the Additional Level of the course:"
+- id: completion
+  title:
+    ru: Об окончании курса
+    en: Of completion of the course
+  caption:
+    ru: "Успешно закончил(а) курс:"
+    en: "Has successfully completed the course:"

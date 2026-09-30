@@ -1,0 +1,24 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: scratch-junior
+title:
+  ru: Программирование на языке Scratch Junior
+  en: Scratch Junior programming language
+levels:
+  - id: completion
+    skills:
+      ru:
+        - движение и повороты
+        - ожидание и события
+        - циклы и их прерывание
+        - последовательное и параллельное исполнение команд
+        - управление с помощью мыши
+        - создание очень простых мультиков и игр
+      en:
+        - movement and turns
+        - expectations and events
+        - loops and interruption
+        - serial and parallel execution of commands
+        - mouse control
+        - creation of very simple cartoons and games

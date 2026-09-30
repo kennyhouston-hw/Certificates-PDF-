@@ -1,0 +1,58 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+# В макете RU-темы C++ скопированы из курса Unity (C#, интерфейс Unity...).
+# Здесь RU-темы — перевод английской версии, проверьте.
+
+id: cpp
+title:
+  ru: Программирование на языке C++
+  en: C++ programming language
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - переменные, массивы и типы данных
+        - циклы и условные операторы
+        - работа с файлами
+        - функции (подпрограммы)
+        - работа с памятью компьютера
+        - "основы ООП: классы, объекты, методы"
+      en:
+        - variables, arrays, and data types
+        - loops and conditional statements
+        - file handling
+        - functions (subroutines)
+        - working with computer memory
+        - "basics of OOP: classes, objects, member functions"
+  - id: basic
+    skills:
+      ru:
+        - общие принципы создания графических приложений
+        - работа с графической библиотекой SFML
+        - проектирование и реализация собственных классов
+        - принципы создания анимации
+        - перемещение и позиционирование игровых объектов
+        - организация файловой структуры проекта
+      en:
+        - general principles of creating graphical applications
+        - working with the SFML graphics library
+        - designing and implementing custom classes
+        - principles of animation creation
+        - movement and positioning of game objects
+        - organizing the file structure of the project
+  - id: intermediate
+    skills:
+      ru:
+        - алгоритмы поиска
+        - алгоритмы сортировки
+        - жадные алгоритмы
+        - системы счисления и перевод чисел
+        - оценка эффективности алгоритмов
+        - визуализация алгоритмов сортировки
+      en:
+        - search algorithms
+        - sorting algorithms
+        - greedy algorithms
+        - number systems and number conversion
+        - algorithm efficiency evaluation
+        - visual representation of sorting algorithms

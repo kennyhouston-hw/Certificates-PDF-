@@ -1,0 +1,42 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: blender
+title:
+  ru: 3D моделирование в Blender
+  en: 3D modeling in Blender
+levels:
+  - id: completion
+    skills:
+      ru:
+        - Базовые 3D объекты, примитивы
+        - Структура мешей
+        - Полигональное моделирование
+        - Пропорциональное редактирование
+        - Привязка объектов. Аддоны
+        - Генерирующие модификаторы
+        - Деформирующие модификаторы
+        - Двухэтажная квартира
+        - Камера и свет
+        - Режимы отображения и шейдеры
+        - Топология
+        - Создание текстуры
+        - Редактор нодов
+        - Рендеринг
+        - Постобработка и композитинг
+      en:
+        - Basic 3D objects, primitives
+        - Mesh structure
+        - Polygonal modeling
+        - Proportional editing
+        - Object snapping. Add-ons
+        - Generative modifiers
+        - Deformation modifiers
+        - Two-story apartment
+        - Camera and Lighting
+        - Display Modes and Shaders
+        - Topology
+        - Texture Creation
+        - Node Editor
+        - Rendering
+        - Post-Processing and Compositing

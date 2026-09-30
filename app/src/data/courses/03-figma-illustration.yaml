@@ -1,0 +1,21 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: figma-illustration
+title:
+  ru: Иллюстрация и дизайн в Figma
+  en: Illustration and design in Figma
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - "основы редактора Figma: контуры, фигуры, слои"
+        - теория цвета, контраст, цветовой контраст
+        - симметрия, асимметрия, контраст, акцент
+        - эффекты, текст, маска
+      en:
+        - "Figma editor basics: stroke, shape, layer"
+        - color theory, contrast, color contrast
+        - symmetry, asymmetry, contrast, accent
+        - effects, text, mask
+        - perspective, isometry

@@ -1,0 +1,21 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: graphic-design
+title:
+  ru: Графический дизайн
+  en: Graphic design
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - основы редактора Figma
+        - контуры, фигуры, слои
+        - фирменный стиль, айдентика
+        - мудборд, рекламный баннер, инфографика, оформление социальных сетей
+        - создание сайтов
+      en:
+        - "Figma editor basics: stroke, shape, layers"
+        - corporate identity
+        - mood boards, advertising banners, infographics, social media design
+        - web-design

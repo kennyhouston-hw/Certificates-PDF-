@@ -1,0 +1,51 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: speed-reading-14
+template: competencies
+title:
+  ru: "Скорочтение: интенсив для 14+ лет"
+  en: "Speed Reading Course: Intensive for Ages 14+"
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - "Деактивация субвокализации: навык скоростного чтения «глазами» без внутреннего проговаривания текста."
+        - "Стабилизация визуальной фиксации: ликвидация регрессий и оптимизация движения глаз по текстовому полотну."
+        - "Смысловая антиципация: развитие навыка высокоскоростной догадки на уровне словосочетаний и законченных мыслей."
+        - "Периферическая развёртка: расширение пятна чёткого фокуса для захвата целой строки за один взгляд."
+        - "Концентрация и вход в «Поток»: навык мгновенного погружения в сложный текст без потери внимания."
+      en:
+        - 'Deactivating Subvocalization: The skill of speed reading "with the eyes" without internally pronouncing the text.'
+        - "Stabilizing Visual Fixation: Eliminating regressions and optimizing eye movement across the text."
+        - "Semantic Anticipation: Developing the skill of high-speed guessing at the level of phrases and complete thoughts."
+        - "Peripheral Vision Expansion: Widening the clear focus spot to capture an entire line in a single glance."
+        - 'Concentration and Entering the "Flow": The skill of instantly immersing oneself in complex text without losing focus.'
+  - id: basic
+    skills:
+      ru:
+        - "Вертикальное сканирование: переход от построчного чтения к диагональному и вертикальному движению по центру страницы."
+        - "Алгоритм интегрального чтения: овладение системой фильтрации данных — отделение «зёрен» смысла от избыточного текста."
+        - "Когнитивное моделирование: профессиональное использование интеллект-карт для эффективного сжатия и обработки больших объёмов данных."
+        - "Интенсификация обработки: кратное увеличение скорости чтения при сохранении высокого коэффициента усвоения (70–90%)."
+        - "Селективное извлечение: навык точечного поиска ключевых узлов и смысловых акцентов в тексте любой сложности."
+      en:
+        - "Vertical Scanning: Transitioning from line-by-line reading to diagonal and vertical movement down the center of the page."
+        - "Integral Reading Algorithm: Mastering a data filtering system — separating the core meaning from redundant text."
+        - "Cognitive Modeling: Professional use of mind maps for effectively compressing and processing large amounts of data."
+        - "Processing Intensification: A multiple-fold increase in reading speed while maintaining a high retention rate (70–90%)."
+        - "Selective Extraction: The skill of precisely locating key points and semantic emphases in texts of any complexity."
+  - id: intermediate
+    skills:
+      ru:
+        - "Интеллектуальное доминирование: достижение скорости чтения, в 5–8 раз превышающей средние показатели взрослого человека."
+        - "Фотографическое восприятие: навык фиксации и осознания целых абзацев за минимальное количество микродвижений глаз."
+        - "Системный аналитический синтез: умение мгновенно выстраивать иерархию смыслов и запоминать архитектуру сверхбольших текстов."
+        - "Академическая выносливость: способность продуктивно работать с научной и технической литературой без утомления."
+        - "Информационный суверенитет: сформированная привычка эффективного самообразования и управления личными знаниями."
+      en:
+        - "Intellectual Dominance: Achieving a reading speed 5–8 times higher than the average adult's."
+        - "Photographic Perception: The skill of perceiving and comprehending entire paragraphs in a minimal number of micro eye movements."
+        - "Systemic Analytical Synthesis: The ability to instantly build a hierarchy of meanings and memorize the architecture of very large texts."
+        - "Academic Endurance: The ability to productively work with scientific and technical literature without fatigue."
+        - "Information Sovereignty: A formed habit of effective self-education and personal knowledge management."

@@ -1,0 +1,22 @@
+# Порядок курсов в списке задаёт числовой префикс в имени файла.
+# Уровни — id из src/data/levels.yaml. Названия уровней и подписи к ним берутся оттуда.
+
+id: digital-art
+title:
+  ru: Основы цифрового рисования
+  en: Digital art
+levels:
+  - id: beginner
+    skills:
+      ru:
+        - основы редактора Krita/IbisPaint
+        - работа с кистями
+        - основы композиции, теории света, объем
+        - "техники рисования: масло, гуашь, акварель"
+        - создание портретов и персонажей
+      en:
+        - Krita/IbisPaint editor basics
+        - working with brushes
+        - composition basics, light theory, volume
+        - "painting techniques: oil, gouache, watercolor"
+        - creating portraits and characters
