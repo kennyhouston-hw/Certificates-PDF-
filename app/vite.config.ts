@@ -16,6 +16,8 @@ function yaml(): Plugin {
 }
 
 export default defineConfig({
+  // Relative paths, so the build works from any sub-path (GitHub Pages serves it at /Certificates-PDF-/app/).
+  base: './',
   plugins: [react(), tailwindcss(), yaml()],
   resolve: {
     alias: {

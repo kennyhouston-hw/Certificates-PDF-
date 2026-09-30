@@ -1,5 +1,8 @@
 import { forwardRef } from "react";
 import { cn } from "@/lib/utils";
+
+// Public files resolved against the build base, not the domain root.
+const asset = (path: string) => `${import.meta.env.BASE_URL}${path}`;
 import type { CertificateTemplate, Lang, Translations } from "@/types/certificate";
 
 interface CertificatePreviewProps {
@@ -28,7 +31,10 @@ export const CertificatePreview = forwardRef<HTMLDivElement, CertificatePreviewP
         ref={ref}
         className="relative w-[842px] h-[595px] overflow-hidden bg-white text-foreground"
       >
-        <div className="absolute top-0 left-0 flex h-full w-[200px] items-center justify-center bg-[url('/img/header.svg')] bg-cover bg-center">
+        <div
+          className="absolute top-0 left-0 flex h-full w-[200px] items-center justify-center bg-cover bg-center"
+          style={{ backgroundImage: `url(${asset("img/header.svg")})` }}
+        >
           <div className="flex -rotate-90 flex-col items-center justify-center gap-2">
             <h1 className="text-[48px]/10 tracking-widest text-white uppercase">
               {langData.crtTitle}
@@ -87,29 +93,29 @@ export const CertificatePreview = forwardRef<HTMLDivElement, CertificatePreviewP
 
         <img
           className="pointer-events-none absolute top-0 left-[200px] z-0 h-full object-cover"
-          src="/img/background.png"
+          src={asset("img/background.png")}
           alt=""
         />
         <img
           className="absolute top-[40px] left-[240px] z-1 w-[129px]"
-          src="/img/logo.svg"
+          src={asset("img/logo.svg")}
           alt="logo"
         />
         <img
           className="absolute right-[40px] bottom-[66px] z-1 aspect-square w-[88px]"
-          src="/img/holo.png"
+          src={asset("img/holo.png")}
           alt="holo"
         />
         {lang === "ru" ? (
           <img
             className="absolute right-[136px] bottom-[66px] z-1 aspect-square w-[88px]"
-            src="/img/stamp.png"
+            src={asset("img/stamp.png")}
             alt="stamp"
           />
         ) : (
           <img
             className="absolute top-[482px] left-[429px] z-1 w-[118px]"
-            src="/img/sign.png"
+            src={asset("img/sign.png")}
             alt="signature"
           />
         )}
