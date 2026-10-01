@@ -1,8 +1,12 @@
 # Уровни, общие для всех курсов. Порядок здесь — порядок в списке выбора.
-# title — название в списке и на боковой плашке сертификата,
+# short — короткое название на кнопке выбора уровня в форме,
+# title — название на боковой плашке сертификата,
 # caption — строка над названием курса.
 
 - id: preliminary
+  short:
+    ru: Подготовительный
+    en: Preliminary
   title:
     ru: Подготовительный уровень
     en: Preliminary Level
@@ -10,6 +14,9 @@
     ru: "Успешно закончил(а) подготовительный уровень курса:"
     en: "Has successfully completed the Preliminary Level of the course:"
 - id: beginner
+  short:
+    ru: Начальный
+    en: Beginner
   title:
     ru: Начальный уровень
     en: Beginner Level
@@ -17,6 +24,9 @@
     ru: "Успешно закончил(а) начальный уровень курса:"
     en: "Has successfully completed the Beginner Level of the course:"
 - id: basic
+  short:
+    ru: Базовый
+    en: Basic
   title:
     ru: Базовый уровень
     en: Basic Level
@@ -24,6 +34,9 @@
     ru: "Успешно закончил(а) базовый уровень курса:"
     en: "Has successfully completed the Basic Level of the course:"
 - id: intermediate
+  short:
+    ru: Средний
+    en: Intermediate
   title:
     ru: Средний уровень
     en: Intermediate Level
@@ -31,6 +44,9 @@
     ru: "Успешно закончил(а) средний уровень курса:"
     en: "Has successfully completed the Intermediate Level of the course:"
 - id: advanced
+  short:
+    ru: Продвинутый
+    en: Advanced
   title:
     ru: Продвинутый уровень
     en: Advanced Level
@@ -38,6 +54,9 @@
     ru: "Успешно закончил(а) продвинутый уровень курса:"
     en: "Has successfully completed the Advanced Level of the course:"
 - id: additional
+  short:
+    ru: Дополнительный
+    en: Additional
   title:
     ru: Дополнительный уровень
     en: Additional Level
@@ -45,6 +64,9 @@
     ru: "Успешно закончил(а) дополнительный уровень курса:"
     en: "Has successfully completed the Additional Level of the course:"
 - id: completion
+  short:
+    ru: Об окончании
+    en: Completion
   title:
     ru: Об окончании курса
     en: Of completion of the course

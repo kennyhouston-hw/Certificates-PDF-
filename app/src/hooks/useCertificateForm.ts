@@ -25,7 +25,7 @@ function getDefaultCourseId(): string | undefined {
 // Levels follow the order of levels.yaml, not the order inside the course file.
 function getLevelOptions(courseId: string | undefined): Option[] {
   const available = new Set(findCourse(courseId)?.levels.map((l) => l.id));
-  return levels.filter((l) => available.has(l.id)).map((l) => ({ id: l.id, title: optionTitle(l.title) }));
+  return levels.filter((l) => available.has(l.id)).map((l) => ({ id: l.id, title: optionTitle(l.short) }));
 }
 
 function getDefaultLevel(courseId: string | undefined): string | undefined {

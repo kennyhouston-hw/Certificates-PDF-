@@ -7,6 +7,7 @@ export type CertificateTemplate = "topics" | "competencies";
 
 export interface LevelDefinition {
   id: string;
+  short: Localized<string>;
   title: Localized<string>;
   caption: Localized<string>;
 }

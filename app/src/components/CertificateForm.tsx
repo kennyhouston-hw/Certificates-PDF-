@@ -9,6 +9,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
+import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import type { Lang, Option, Translations } from "@/types/certificate";
 
 interface CertificateFormProps {
@@ -49,14 +50,13 @@ export function CertificateForm({
 }: CertificateFormProps) {
   return (
     <form
-      className="flex h-fit w-full flex-col gap-3 p-6 bg-white rounded-4xl border lg:w-92 lg:shrink-0"
+      className="flex h-fit w-full flex-col gap-2 p-6 bg-white rounded-4xl border lg:w-92 lg:shrink-0"
       onSubmit={(e) => e.preventDefault()}
     >
-      <div className="mb-2">
+      <div className="mb-3">
         <LanguageSwitch lang={lang} onChange={onLangChange} />
       </div>
 
-      <DateInput value={date} onChange={onDateChange} />
       <Input
         type="text"
         placeholder="Имя ученика"
@@ -64,6 +64,8 @@ export function CertificateForm({
         onChange={(e) => onNameChange(e.target.value)}
       />
 
+      <DateInput value={date} onChange={onDateChange} />
+      
       <Select value={courseId} items={toItems(courseOptions)} onValueChange={(value) => value && onCourseChange(value)}>
         <SelectTrigger className="w-full">
           <SelectValue placeholder={langData.selectCourseOption ?? "Выберите курс"} />
@@ -77,23 +79,29 @@ export function CertificateForm({
         </SelectContent>
       </Select>
 
-      <Select value={level} items={toItems(levelOptions)} onValueChange={(value) => value && onLevelChange(value)}>
-        <SelectTrigger className="w-full">
-          <SelectValue placeholder="Выберите уровень" />
-        </SelectTrigger>
-        <SelectContent>
-          {levelOptions.map((lvl) => (
-            <SelectItem key={lvl.id} value={lvl.id}>
-              {lvl.title}
-            </SelectItem>
-          ))}
-        </SelectContent>
-      </Select>
+      <ToggleGroup
+        size="sm"
+        value={level ? [level] : []}
+        onValueChange={(value) => {
+          // Ignore clicks that would deselect the current level.
+          const next = value[0];
+          if (next) onLevelChange(next);
+        }}
+        variant="outline"
+        spacing={1}
+        className="w-full flex-wrap mt-2"
+      >
+        {levelOptions.map((lvl) => (
+          <ToggleGroupItem key={lvl.id} value={lvl.id} className="text-xs h-7">
+            {lvl.title}
+          </ToggleGroupItem>
+        ))}
+      </ToggleGroup>
 
       <Button
         variant="default"
         size="lg"
-        className="w-full"
+        className="w-full mt-4"
         onClick={onExport}
       >
         Экспорт в PDF

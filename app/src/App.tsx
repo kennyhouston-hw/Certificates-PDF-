@@ -31,7 +31,7 @@ function App() {
     <main className="flex min-h-screen items-top sm:items-center justify-center p-5 bg-white">
       <div className="container flex w-full flex-col justify-center gap-2 sm:gap-6 lg:flex-row">
 
-        <section className="flex min-w-0 flex-2 flex-col items-center justify-center p-4 sm:p-20 bg-muted/60 rounded-4xl">
+        <section className="flex min-w-0 flex-2 flex-col items-center justify-center p-4 sm:p-20 bg-muted/40 border border-dashed rounded-4xl">
           <ScaledPreview width={842} height={595}>
             <CertificatePreview
               ref={previewRef}
