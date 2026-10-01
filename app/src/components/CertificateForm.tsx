@@ -1,3 +1,4 @@
+import { FileDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { DateInput } from "@/components/DateInput";
 import { Input } from "@/components/ui/input";
@@ -104,7 +105,8 @@ export function CertificateForm({
         className="w-full mt-4"
         onClick={onExport}
       >
-        Экспорт в PDF
+        <FileDown data-icon="inline-start" />
+        Скачать PDF
       </Button>
     </form>
   );
