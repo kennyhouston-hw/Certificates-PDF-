@@ -9,26 +9,26 @@ levels:
   - id: beginner
     skills:
       ru:
-        - основы верстки в HTML
-        - стилизация, анимация и трансформация на CSS
-        - адаптивная верстка под разные экраны
-        - хостинг, домен и публикация в интернете
+        - "основы верстки в\_HTML"
+        - "стилизация, анимация и\_трансформация на\_CSS"
+        - "адаптивная верстка под\_разные экраны"
+        - "хостинг, домен и\_публикация в\_интернете"
         - инструмент Flexbox
       en:
         - basics of HTML layout
         - styling, animation and transformation with CSS
         - responsive layout for different screen sizes
-        - hosting, domain, and publishing on the web
+        - "hosting, domain, and publishing on the\_web"
         - Flexbox layout model
   - id: basic
     skills:
       ru:
-        - семантические теги и валидация кода
-        - псевдоклассы и псевдоэлементы
-        - трехмерные трансформации и переменные
+        - "семантические теги и\_валидация кода"
+        - "псевдоклассы и\_псевдоэлементы"
+        - "трехмерные трансформации и\_переменные"
         - инструмент создания сеток CSS GRID
-        - использование локальных шрифтов и сторонних библиотек
-        - взаимодействие с пакетом Figma
+        - "использование локальных шрифтов и\_сторонних библиотек"
+        - "взаимодействие с\_пакетом Figma"
       en:
         - semantic tags and code validation
         - pseudo-classes and pseudo-elements
@@ -40,9 +40,9 @@ levels:
     skills:
       ru:
         - основы языка JavaScript
-        - взаимодействие с DOM и создание элементов через скрипты
-        - события и интерактивность сайта
-        - отладка с помощью инструментов разработчика
+        - "взаимодействие с\_DOM и\_создание элементов через скрипты"
+        - "события и\_интерактивность сайта"
+        - "отладка с\_помощью инструментов разработчика"
         - стрелочные функции, this, понятие классов
         - планирование событий
       en:
@@ -50,15 +50,15 @@ levels:
         - DOM manipulation and creating elements via scripts
         - events and website interactivity
         - debugging with developer tools
-        - arrow functions, this, and the concept of classes
+        - "arrow functions, this, and the\_concept of classes"
         - event scheduling
   - id: advanced
     skills:
       ru:
         - масштабируемая графика SVG
         - элемент HTML Canvas
-        - взаимодействие в SVG и Canvas через JavaScript
-        - анимации и математические функции для создания графики
+        - "взаимодействие в\_SVG и\_Canvas через JavaScript"
+        - "анимации и\_математические функции для\_создания графики"
       en:
         - scalable Vector Graphics (SVG)
         - HTML Canvas element
@@ -70,9 +70,9 @@ levels:
       en: Website development [React]
     skills:
       ru:
-        - библиотека React.js и концепция SPA
+        - "библиотека React.js и\_концепция SPA"
         - JSX синтаксис, компоненты, import/export
-        - система контроля версий Git и хостинг GitHub
+        - "система контроля версий Git и\_хостинг GitHub"
         - FLUX архитектура
         - основы библиотеки React Redux
       en:

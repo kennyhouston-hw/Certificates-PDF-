@@ -3,7 +3,7 @@
 
 id: unity
 title:
-  ru: Разработка игр в UNITY
+  ru: "Разработка игр в\_UNITY"
   en: Game development. Unity
 levels:
   - id: beginner
@@ -12,8 +12,8 @@ levels:
         - основы языка C#
         - интерфейс Unity
         - объекты, скрипты, компоненты
-        - создание и использование анимаций
-        - создание и настройка UI
+        - "создание и\_использование анимаций"
+        - "создание и\_настройка UI"
       en:
         - basics of C# programming language
         - Unity interface
@@ -23,8 +23,8 @@ levels:
   - id: basic
     skills:
       ru:
-        - основы физической системы в 2D
-        - события и кривые в анимации
+        - "основы физической системы в\_2D"
+        - "события и\_кривые в\_анимации"
         - тайловая система
         - интеграция звуков
         - корутины
@@ -37,11 +37,11 @@ levels:
   - id: intermediate
     skills:
       ru:
-        - основы 3D - материалы, текстуры объекты, скайбоксы
+        - "основы 3D\_- материалы, текстуры объекты, скайбоксы"
         - источники света
-        - системы частиц и лучей
+        - "системы частиц и\_лучей"
         - система навигации
-        - основы физической системы в 3D
+        - "основы физической системы в\_3D"
       en:
         - "basics of 3D: materials, textures, objects, skyboxes"
         - light sources
@@ -58,7 +58,7 @@ levels:
         - версионный контроль BitBucket
       en:
         - Cinemachine package
-        - creating a simple AI
+        - "creating a\_simple AI"
         - game network architectures
         - basics of multiplayer game development
         - version control with BitBucket

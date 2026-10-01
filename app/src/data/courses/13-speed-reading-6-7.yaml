@@ -4,62 +4,62 @@
 id: speed-reading-6-7
 template: competencies
 title:
-  ru: Скорочтение для детей 6–7 лет
+  ru: "Скорочтение для\_детей 6–7\_лет"
   en: Speed Reading Course for Children Ages 6–7
 levels:
   - id: beginner
     skills:
       ru:
-        - "Техника «Плавное скольжение»: переход от прерывистого (рубленого) чтения к слитному произношению слов."
-        - "Навык «Зоркий глаз»: повышение концентрации внимания; умение видеть слово целиком и не терять строчку при чтении."
-        - "Смысловое единство: способность связывать прочитанные слова в законченную мысль и понимать сюжет с первого прочтения."
-        - "Фонетическая чистота: развитие чёткой артикуляции и правильного речевого дыхания для лёгкого чтения вслух."
-        - "Образное мышление: умение представлять прочитанное в виде ярких картинок (первый шаг к пересказу без зубрёжки)."
+        - "Техника «Плавное скольжение»: переход от\_прерывистого (рубленого) чтения к\_слитному произношению слов."
+        - "Навык «Зоркий глаз»: повышение концентрации внимания; умение видеть слово целиком и\_не\_терять строчку при\_чтении."
+        - "Смысловое единство: способность связывать прочитанные слова в\_законченную мысль и\_понимать сюжет с\_первого прочтения."
+        - "Фонетическая чистота: развитие чёткой артикуляции и\_правильного речевого дыхания для\_лёгкого чтения вслух."
+        - "Образное мышление: умение представлять прочитанное в\_виде ярких картинок (первый шаг к\_пересказу без\_зубрёжки)."
       en:
         - "Smooth Gliding Technique: Transitioning from choppy, disjointed reading to fluid word pronunciation."
-        - "Sharp Eye Skill: Improved concentration; the ability to recognize whole words and maintain one's place in the text while reading."
-        - "Semantic Unity: The ability to connect words into a complete thought and understand the storyline on the first reading."
+        - "Sharp Eye Skill: Improved concentration; the\_ability to recognize whole words and maintain one's place in the\_text while reading."
+        - "Semantic Unity: The\_ability to connect words into a\_complete thought and understand the\_storyline on the\_first reading."
         - "Phonetic Clarity: Developing precise articulation and proper speech breathing for effortless reading aloud."
-        - "Visual Thinking: The ability to visualize the text as vivid mental images (the first step toward retelling without rote memorization)."
+        - "Visual Thinking: The\_ability to visualize the\_text as vivid mental images (the\_first step toward retelling without rote memorization)."
   - id: basic
     skills:
       ru:
-        - "Мгновенное узнавание: переход от послогового чтения к целостному восприятию слов (чтение «взглядом», а не по частям)."
-        - "Стабильный темп: увеличение скорости чтения в 1.5–2 раза при сохранении 100% плавности и чистоты произношения."
-        - "Оперативная память: способность удерживать в уме начало предложения до момента его завершения (устранение проблемы «прочитал и забыл»)."
-        - "Расширение поля зрения: тренировка периферического зрения; умение видеть слово целиком и предугадывать следующее (антиципация)."
-        - "Образная детализация: развитие навыка «внутреннего экрана» — умение ярко представлять детали прочитанного для лёгкого пересказа."
+        - "Мгновенное узнавание: переход от\_послогового чтения к\_целостному восприятию слов (чтение «взглядом», а\_не\_по\_частям)."
+        - "Стабильный темп: увеличение скорости чтения в\_1.5–2\_раза при\_сохранении 100%\_плавности и\_чистоты произношения."
+        - "Оперативная память: способность удерживать в\_уме начало предложения до\_момента его завершения (устранение проблемы «прочитал и\_забыл»)."
+        - "Расширение поля зрения: тренировка периферического зрения; умение видеть слово целиком и\_предугадывать следующее (антиципация)."
+        - "Образная детализация: развитие навыка «внутреннего экрана»\_— умение ярко представлять детали прочитанного для\_лёгкого пересказа."
       en:
-        - "Instant Word Recognition: Transitioning from syllable-by-syllable decoding to whole-word perception (reading at a glance rather than piece by piece)."
-        - "Steady Reading Pace: Increasing reading speed by 1.5–2 times while maintaining 100% fluency and clarity of pronunciation."
-        - 'Working Memory: The ability to retain the beginning of a sentence in mind until it is finished (eliminating the "read and immediately forget" issue).'
-        - "Expanded Visual Span: Training peripheral vision; the ability to see whole words and anticipate the next one (anticipation skill)."
-        - 'Visual Detailing: Developing the "inner screen" — the ability to vividly picture details from the text for effortless retelling.'
+        - "Instant Word Recognition: Transitioning from syllable-by-syllable decoding to whole-word perception (reading at a\_glance rather than piece by piece)."
+        - "Steady Reading Pace: Increasing reading speed by 1.5–2\_times while maintaining 100%\_fluency and clarity of pronunciation."
+        - "Working Memory: The\_ability to retain the\_beginning of a\_sentence in mind until it is finished (eliminating the\_\"read and immediately forget\" issue)."
+        - "Expanded Visual Span: Training peripheral vision; the\_ability to see whole words and anticipate the\_next one (anticipation skill)."
+        - "Visual Detailing: Developing the\_\"inner screen\"\_— the\_ability to vividly picture details from the\_text for effortless retelling."
   - id: intermediate
     skills:
       ru:
-        - "Смысловое проектирование: умение выделять главную мысль в абзаце и связывать части текста в единую логическую цепочку."
-        - "Глубинная обработка: навык «вдумчивого чтения» — способность отвечать на сложные вопросы по тексту без повторного перечитывания."
-        - "Скоростной синтез: автоматизация плавного чтения на повышенной скорости при сохранении 100% понимания."
-        - "Детальная визуализация: развитие воображения; умение пересказывать текст ярко и последовательно, опираясь на внутренние образы."
-        - "Концентрация внимания: способность удерживать фокус на чтении длинных (для этого возраста) текстов без потери интереса."
+        - "Смысловое проектирование: умение выделять главную мысль в\_абзаце и\_связывать части текста в\_единую логическую цепочку."
+        - "Глубинная обработка: навык «вдумчивого чтения»\_— способность отвечать на\_сложные вопросы по\_тексту без\_повторного перечитывания."
+        - "Скоростной синтез: автоматизация плавного чтения на\_повышенной скорости при\_сохранении 100%\_понимания."
+        - "Детальная визуализация: развитие воображения; умение пересказывать текст ярко и\_последовательно, опираясь на\_внутренние образы."
+        - "Концентрация внимания: способность удерживать фокус на\_чтении длинных (для\_этого возраста) текстов без\_потери интереса."
       en:
-        - "Semantic Projection: The ability to identify the main idea in a paragraph and connect parts of the text into a cohesive logical chain."
-        - 'Deep Processing: The skill of "thoughtful reading" — the ability to answer complex questions about the text without re-reading.'
-        - "Speed Reading Synthesis: Automating fluent reading at an accelerated pace while maintaining 100% comprehension."
-        - "Detailed Visualization: Developing imagination; the ability to retell the text vividly and coherently, relying on internal imagery."
-        - "Focused Attention: The ability to stay engaged while reading longer texts (appropriate for this age group) without losing interest."
+        - "Semantic Projection: The\_ability to identify the\_main idea in a\_paragraph and connect parts of the\_text into a\_cohesive logical chain."
+        - "Deep Processing: The\_skill of \"thoughtful reading\"\_— the\_ability to answer complex questions about the\_text without re-reading."
+        - "Speed Reading Synthesis: Automating fluent reading at an\_accelerated pace while maintaining 100%\_comprehension."
+        - "Detailed Visualization: Developing imagination; the\_ability to retell the\_text vividly and coherently, relying on internal imagery."
+        - "Focused Attention: The\_ability to stay engaged while reading longer texts (appropriate for this age group) without losing interest."
   - id: advanced
     skills:
       ru:
-        - "Интеллектуальное лидерство: достижение скорости чтения, значительно превышающей школьные нормы, при 100% усвоении материала."
-        - "Навык «Смысловой фильтр»: умение мгновенно находить ключевые факты и отвечать на сложные вопросы по тексту (сканирующее чтение)."
-        - "Креативный пересказ: способность воспроизводить текст любой сложности, используя богатый словарный запас и собственные образы."
-        - "Высокая нейронная выносливость: способность сохранять концентрацию и интерес при работе с большими объёмами информации."
-        - "Читательская автономия: сформированная привычка и личный интерес к самостоятельному чтению без внешнего принуждения."
+        - "Интеллектуальное лидерство: достижение скорости чтения, значительно превышающей школьные нормы, при\_100%\_усвоении материала."
+        - "Навык «Смысловой фильтр»: умение мгновенно находить ключевые факты и\_отвечать на\_сложные вопросы по\_тексту (сканирующее чтение)."
+        - "Креативный пересказ: способность воспроизводить текст любой сложности, используя богатый словарный запас и\_собственные образы."
+        - "Высокая нейронная выносливость: способность сохранять концентрацию и\_интерес при\_работе с\_большими объёмами информации."
+        - "Читательская автономия: сформированная привычка и\_личный интерес к\_самостоятельному чтению без\_внешнего принуждения."
       en:
-        - "Intellectual Leadership: Achieving a reading speed significantly exceeding school standards with 100% material retention."
-        - "Semantic Filter Skill: The ability to instantly locate key facts and answer complex questions about the text (scan reading)."
-        - "Creative Retelling: The ability to reproduce texts of any complexity using a rich vocabulary and personal imagery."
-        - "High Cognitive Endurance: The ability to maintain concentration and interest when working with large volumes of information."
-        - "Reading Autonomy: A developed habit and personal interest in independent reading without external pressure."
+        - "Intellectual Leadership: Achieving a\_reading speed significantly exceeding school standards with 100%\_material retention."
+        - "Semantic Filter Skill: The\_ability to instantly locate key facts and answer complex questions about the\_text (scan reading)."
+        - "Creative Retelling: The\_ability to reproduce texts of any complexity using a\_rich vocabulary and personal imagery."
+        - "High Cognitive Endurance: The\_ability to maintain concentration and interest when working with large volumes of information."
+        - "Reading Autonomy: A\_developed habit and personal interest in independent reading without external pressure."

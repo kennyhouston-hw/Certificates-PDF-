@@ -10,7 +10,7 @@ title:
 levels:
   - id: preliminary
     courseTitle:
-      ru: "Ментальная арифметика: Простой счёт в сложении и вычитании"
+      ru: "Ментальная арифметика: Простой счёт в\_сложении и\_вычитании"
       en: "Mental Arithmetic: Simple Addition and Subtraction"
     skills:
       ru:
@@ -21,16 +21,16 @@ levels:
         - Освоение цифры 8
         - Освоение цифры 9
       en:
-        - Mastering the Lower Beads
-        - Mastering the Number 5
-        - Mastering the Number 6
-        - Mastering the Number 7
-        - Mastering the Number 8
-        - Mastering the Number 9
+        - "Mastering the\_Lower Beads"
+        - "Mastering the\_Number 5"
+        - "Mastering the\_Number 6"
+        - "Mastering the\_Number 7"
+        - "Mastering the\_Number 8"
+        - "Mastering the\_Number 9"
   - id: beginner
     courseTitle:
-      ru: "Ментальная арифметика: Помощь брата в сложении и вычитании"
-      en: "Mental Arithmetic: The Brother Method in Addition and Subtraction"
+      ru: "Ментальная арифметика: Помощь брата в\_сложении и\_вычитании"
+      en: "Mental Arithmetic: The\_Brother Method in Addition and Subtraction"
     skills:
       ru:
         - Формулы «Помощь брата» +1, -1
@@ -44,8 +44,8 @@ levels:
         - «Brother Method» Formulas +4, −4
   - id: basic
     courseTitle:
-      ru: "Ментальная арифметика: Помощь друга в сложении и вычитании"
-      en: "Mental Arithmetic: The Friend Method in Addition and Subtraction"
+      ru: "Ментальная арифметика: Помощь друга в\_сложении и\_вычитании"
+      en: "Mental Arithmetic: The\_Friend Method in Addition and Subtraction"
     skills:
       ru:
         - Формулы «Помощь друга» +1, -1
@@ -69,7 +69,7 @@ levels:
         - «Friend Method» Formulas +9, −9
   - id: intermediate
     courseTitle:
-      ru: "Ментальная арифметика: Помощь семьи в сложении и вычитании"
+      ru: "Ментальная арифметика: Помощь семьи в\_сложении и\_вычитании"
       en: "Mental Arithmetic: Fact Families in Addition and Subtraction"
     skills:
       ru:
@@ -86,15 +86,15 @@ levels:
         - Random Calculations
   - id: advanced
     courseTitle:
-      ru: "Ментальная арифметика: Умножение и деление"
+      ru: "Ментальная арифметика: Умножение и\_деление"
       en: "Mental Arithmetic: Multiplication and Division"
     skills:
       ru:
         - Таблица умножения
-        - Умножение и деление на однозначные числа
-        - Умножение и деление на двузначные числа
-        - Умножение и деление на трехзначные числа
-        - "Умножение и деление: особые случаи"
+        - "Умножение и\_деление на\_однозначные числа"
+        - "Умножение и\_деление на\_двузначные числа"
+        - "Умножение и\_деление на\_трехзначные числа"
+        - "Умножение и\_деление: особые случаи"
       en:
         - Multiplication table
         - Multiplication and division by single-digit numbers

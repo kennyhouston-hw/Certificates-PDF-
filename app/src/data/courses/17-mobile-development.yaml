@@ -9,15 +9,15 @@ levels:
   - id: completion
     skills:
       ru:
-        - знакомство с платформой AppSheet и создание чата
-        - добавление учетной записи в чат
-        - добавление личных сообщений в чат
-        - отправка файлов в личных сообщениях
-        - добавление в друзья
+        - "знакомство с\_платформой AppSheet и\_создание чата"
+        - "добавление учетной записи в\_чат"
+        - "добавление личных сообщений в\_чат"
+        - "отправка файлов в\_личных сообщениях"
+        - "добавление в\_друзья"
         - лента новостей
       en:
-        - introducing the AppSheet platform and creating a chat room
-        - adding an account to chat
+        - "introducing the\_AppSheet platform and creating a\_chat room"
+        - "adding an\_account to chat"
         - adding private messages to chat
         - sending files in private messages
         - add friends

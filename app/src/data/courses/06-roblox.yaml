@@ -3,15 +3,15 @@
 
 id: roblox
 title:
-  ru: Разработка 3D-игр в ROBLOX
+  ru: "Разработка 3D-игр в\_ROBLOX"
   en: Creating 3D games in Roblox
 levels:
   - id: preliminary
     skills:
       ru:
-        - основы работы в программе Roblox Studio
-        - работа со свойствами объектов
-        - знакомство с основами скриптов в Roblox Studio
+        - "основы работы в\_программе Roblox Studio"
+        - "работа со\_свойствами объектов"
+        - "знакомство с\_основами скриптов в\_Roblox Studio"
         - базовые приёмы построения игровых уровней
       en:
         - basics of working with Roblox Studio
@@ -21,11 +21,11 @@ levels:
   - id: beginner
     skills:
       ru:
-        - свойства расположения объектов в 3D-пространстве
-        - основы написания кода на языке Lua
-        - базовые команды для перемещения игровых элементов
-        - создание и использование переменных и условий
-        - создание простейших игр в Roblox
+        - "свойства расположения объектов в\_3D-пространстве"
+        - "основы написания кода на\_языке Lua"
+        - "базовые команды для\_перемещения игровых элементов"
+        - "создание и\_использование переменных и\_условий"
+        - "создание простейших игр в\_Roblox"
       en:
         - properties of object positioning in 3D space
         - fundamentals of coding in Lua
@@ -35,14 +35,14 @@ levels:
   - id: basic
     skills:
       ru:
-        - работа с массивами
+        - "работа с\_массивами"
         - создание игрового магазина
         - создание анимаций
-        - создание и использование диалогов
+        - "создание и\_использование диалогов"
         - использование Surface GUI
       en:
         - working with arrays
-        - creating an in-game store
+        - "creating an\_in-game store"
         - creating animations
         - creating and using dialogues
         - using Surface GUI
@@ -51,12 +51,12 @@ levels:
       ru:
         - использование поиска пути
         - создание музыкального плеера
-        - работа с сохранением данных в игре
-        - работа с Attributes
-        - работа с событиями
+        - "работа с\_сохранением данных в\_игре"
+        - "работа с\_Attributes"
+        - "работа с\_событиями"
       en:
         - implementing pathfinding
-        - creating a music player
+        - "creating a\_music player"
         - handling in-game data saving
         - working with Attributes
         - working with events
@@ -64,13 +64,13 @@ levels:
     skills:
       ru:
         - создание мультиплеерных игр
-        - работа с форматом json
+        - "работа с\_форматом json"
         - создание системы телепортации
-        - работа с RemoteEvent
-        - создание и использование Coroutine
+        - "работа с\_RemoteEvent"
+        - "создание и\_использование Coroutine"
       en:
         - developing multiplayer games
         - working with JSON format
-        - creating a teleportation system
+        - "creating a\_teleportation system"
         - working with RemoteEvent
         - creating and using Coroutines

@@ -5,17 +5,17 @@
 
 id: cpp
 title:
-  ru: Программирование на языке C++
+  ru: "Программирование на\_языке C++"
   en: C++ programming language
 levels:
   - id: beginner
     skills:
       ru:
-        - переменные, массивы и типы данных
-        - циклы и условные операторы
-        - работа с файлами
+        - "переменные, массивы и\_типы данных"
+        - "циклы и\_условные операторы"
+        - "работа с\_файлами"
         - функции (подпрограммы)
-        - работа с памятью компьютера
+        - "работа с\_памятью компьютера"
         - "основы ООП: классы, объекты, методы"
       en:
         - variables, arrays, and data types
@@ -28,25 +28,25 @@ levels:
     skills:
       ru:
         - общие принципы создания графических приложений
-        - работа с графической библиотекой SFML
-        - проектирование и реализация собственных классов
+        - "работа с\_графической библиотекой SFML"
+        - "проектирование и\_реализация собственных классов"
         - принципы создания анимации
-        - перемещение и позиционирование игровых объектов
+        - "перемещение и\_позиционирование игровых объектов"
         - организация файловой структуры проекта
       en:
         - general principles of creating graphical applications
-        - working with the SFML graphics library
+        - "working with the\_SFML graphics library"
         - designing and implementing custom classes
         - principles of animation creation
         - movement and positioning of game objects
-        - organizing the file structure of the project
+        - "organizing the\_file structure of the\_project"
   - id: intermediate
     skills:
       ru:
         - алгоритмы поиска
         - алгоритмы сортировки
         - жадные алгоритмы
-        - системы счисления и перевод чисел
+        - "системы счисления и\_перевод чисел"
         - оценка эффективности алгоритмов
         - визуализация алгоритмов сортировки
       en:

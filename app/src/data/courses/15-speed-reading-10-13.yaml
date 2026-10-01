@@ -4,62 +4,62 @@
 id: speed-reading-10-13
 template: competencies
 title:
-  ru: Скорочтение для детей 10–13 лет
+  ru: "Скорочтение для\_детей 10–13\_лет"
   en: Speed Reading Course for Children Ages 10–13
 levels:
   - id: beginner
     skills:
       ru:
-        - "Устранение когнитивного шума: ликвидация регрессий (перечитывания) и лишних пауз для обеспечения непрерывного процесса визуального восприятия текста."
-        - "Управление фокусом: повышение концентрации внимания при работе с объёмными и сложными академическими текстами."
-        - "Автоматизация декодирования: переход к мгновенному узнаванию целых смысловых блоков без потери темпа."
-        - "Синхронизация полушарий: настройка баланса между скоростью восприятия символов и глубиной понимания смысла."
-        - "Первичная фильтрация: умение с первого прочтения фиксировать ключевые факты и структуру параграфа."
+        - "Устранение когнитивного шума: ликвидация регрессий (перечитывания) и\_лишних пауз для\_обеспечения непрерывного процесса визуального восприятия текста."
+        - "Управление фокусом: повышение концентрации внимания при\_работе с\_объёмными и\_сложными академическими текстами."
+        - "Автоматизация декодирования: переход к\_мгновенному узнаванию целых смысловых блоков без\_потери темпа."
+        - "Синхронизация полушарий: настройка баланса между скоростью восприятия символов и\_глубиной понимания смысла."
+        - "Первичная фильтрация: умение с\_первого прочтения фиксировать ключевые факты и\_структуру параграфа."
       en:
-        - "Eliminating Cognitive Noise: Eliminating regressions (re-reading) and unnecessary pauses to ensure a continuous process of visual text perception."
+        - "Eliminating Cognitive Noise: Eliminating regressions (re-reading) and unnecessary pauses to ensure a\_continuous process of visual text perception."
         - "Focus Management: Improving concentration when working with lengthy and complex academic texts."
         - "Decoding Automation: Transitioning to instant recognition of whole semantic blocks without losing pace."
-        - "Hemisphere Synchronization: Balancing the speed of symbol perception with the depth of meaning comprehension."
-        - "Initial Filtering: The ability to capture key facts and the structure of a paragraph after the first reading."
+        - "Hemisphere Synchronization: Balancing the\_speed of symbol perception with the\_depth of meaning comprehension."
+        - "Initial Filtering: The\_ability to capture key facts and the\_structure of a\_paragraph after the\_first reading."
   - id: basic
     skills:
       ru:
-        - "Высокоскоростное сканирование: переход от линейного чтения к целостному восприятию текстовых блоков (фиксация нескольких слов за один взгляд)."
-        - "Расширение зрительного охвата: тренировка периферического зрения для быстрого поиска ключевых узлов в большом массиве информации."
-        - "Оптимизация оперативной памяти: повышение способности мозга удерживать и связывать сложные факты в процессе быстрого чтения."
-        - "Интенсификация темпа: кратное увеличение скорости обработки текстовых данных при стабильном уровне понимания и усвоения."
-        - "Предиктивный анализ (антиципация): развитие навыка смысловой догадки, позволяющего мозгу мгновенно узнавать термины и сокращать время на их декодирование."
+        - "Высокоскоростное сканирование: переход от\_линейного чтения к\_целостному восприятию текстовых блоков (фиксация нескольких слов за\_один взгляд)."
+        - "Расширение зрительного охвата: тренировка периферического зрения для\_быстрого поиска ключевых узлов в\_большом массиве информации."
+        - "Оптимизация оперативной памяти: повышение способности мозга удерживать и\_связывать сложные факты в\_процессе быстрого чтения."
+        - "Интенсификация темпа: кратное увеличение скорости обработки текстовых данных при\_стабильном уровне понимания и\_усвоения."
+        - "Предиктивный анализ (антиципация): развитие навыка смысловой догадки, позволяющего мозгу мгновенно узнавать термины и\_сокращать время на\_их декодирование."
       en:
-        - "High-Speed Scanning: Transitioning from linear reading to the holistic perception of text blocks (capturing several words at a single glance)."
+        - "High-Speed Scanning: Transitioning from linear reading to the\_holistic perception of text blocks (capturing several words at a\_single glance)."
         - "Expanded Visual Span: Training peripheral vision for quickly locating key points within large amounts of information."
-        - "Working Memory Optimization: Enhancing the brain's ability to retain and connect complex facts during rapid reading."
-        - "Pace Intensification: A multiple-fold increase in text data processing speed while maintaining a stable level of comprehension and retention."
-        - "Predictive Analysis (Anticipation): Developing the skill of semantic guessing, allowing the brain to instantly recognize terms and reduce decoding time."
+        - "Working Memory Optimization: Enhancing the\_brain's ability to retain and connect complex facts during rapid reading."
+        - "Pace Intensification: A\_multiple-fold increase in text data processing speed while maintaining a\_stable level of comprehension and retention."
+        - "Predictive Analysis (Anticipation): Developing the\_skill of semantic guessing, allowing the\_brain to instantly recognize terms and reduce decoding time."
   - id: intermediate
     skills:
       ru:
-        - "Структурная декомпозиция: умение мгновенно разделять сложный академический текст на логические блоки и опорные пункты."
-        - "Алгоритмы смыслового сжатия: навык выделения главного (тезисов) и отсечения второстепенной информации («информационного шума»)."
-        - "Когнитивное картирование: владение техникой ментальных карт на бумаге для визуализации и 100% запоминания структуры параграфа."
-        - "Селективное извлечение данных: мастерство быстрого поиска конкретных фактов, дат и определений в больших массивах текста."
-        - "Критическая оценка контента: развитие навыка глубинного понимания подтекста и авторской позиции с первого прочтения."
+        - "Структурная декомпозиция: умение мгновенно разделять сложный академический текст на\_логические блоки и\_опорные пункты."
+        - "Алгоритмы смыслового сжатия: навык выделения главного (тезисов) и\_отсечения второстепенной информации («информационного шума»)."
+        - "Когнитивное картирование: владение техникой ментальных карт на\_бумаге для\_визуализации и\_100%\_запоминания структуры параграфа."
+        - "Селективное извлечение данных: мастерство быстрого поиска конкретных фактов, дат и\_определений в\_больших массивах текста."
+        - "Критическая оценка контента: развитие навыка глубинного понимания подтекста и\_авторской позиции с\_первого прочтения."
       en:
-        - "Structural Decomposition: The ability to instantly break down a complex academic text into logical blocks and anchor points."
-        - 'Semantic Compression Algorithms: The skill of identifying main ideas (theses) and filtering out secondary information ("information noise").'
-        - "Cognitive Mapping: Proficiency in creating mental maps on paper to visualize and 100% memorize the structure of a paragraph."
-        - "Selective Data Extraction: The mastery of quickly finding specific facts, dates, and definitions within large bodies of text."
-        - "Critical Content Evaluation: Developing the skill of deeply understanding subtext and the author's position on the first reading."
+        - "Structural Decomposition: The\_ability to instantly break down a\_complex academic text into logical blocks and anchor points."
+        - "Semantic Compression Algorithms: The\_skill of identifying main ideas (theses) and filtering out secondary information (\"information noise\")."
+        - "Cognitive Mapping: Proficiency in creating mental maps on paper to visualize and 100%\_memorize the\_structure of a\_paragraph."
+        - "Selective Data Extraction: The\_mastery of quickly finding specific facts, dates, and definitions within large bodies of text."
+        - "Critical Content Evaluation: Developing the\_skill of deeply understanding subtext and the\_author's position on the\_first reading."
   - id: advanced
     skills:
       ru:
-        - "Интеллектуальное лидерство: достижение темпа обработки текстовых данных, в 3–5 раз превышающего средние возрастные нормы."
-        - "Высокопотоковое чтение: навык панорамного восприятия страницы, позволяющий мгновенно улавливать суть без потери качества понимания."
-        - "Системный синтез данных: умение удерживать в памяти архитектуру сверхбольших объёмов информации и воспроизводить её через логические связи."
-        - "Селективная фильтрация: профессиональное владение техниками просмотрового и сканирующего чтения для мгновенного поиска целевых фактов."
-        - "Когнитивная выносливость: способность сохранять пиковую концентрацию и продуктивность при работе со сложной академической литературой."
+        - "Интеллектуальное лидерство: достижение темпа обработки текстовых данных, в\_3–5\_раз превышающего средние возрастные нормы."
+        - "Высокопотоковое чтение: навык панорамного восприятия страницы, позволяющий мгновенно улавливать суть без\_потери качества понимания."
+        - "Системный синтез данных: умение удерживать в\_памяти архитектуру сверхбольших объёмов информации и\_воспроизводить её через логические связи."
+        - "Селективная фильтрация: профессиональное владение техниками просмотрового и\_сканирующего чтения для\_мгновенного поиска целевых фактов."
+        - "Когнитивная выносливость: способность сохранять пиковую концентрацию и\_продуктивность при\_работе со\_сложной академической литературой."
       en:
-        - "Intellectual Leadership: Achieving a text data processing pace 3–5 times higher than average age-appropriate norms."
-        - "High-Speed Flow Reading: The skill of panoramic page perception, allowing for instant grasping of the essence without losing comprehension quality."
-        - "Systemic Data Synthesis: The ability to retain the architecture of very large volumes of information in memory and reproduce it through logical connections."
+        - "Intellectual Leadership: Achieving a\_text data processing pace 3–5\_times higher than average age-appropriate norms."
+        - "High-Speed Flow Reading: The\_skill of panoramic page perception, allowing for instant grasping of the\_essence without losing comprehension quality."
+        - "Systemic Data Synthesis: The\_ability to retain the\_architecture of very large volumes of information in memory and reproduce it through logical connections."
         - "Selective Filtering: Professional proficiency in skimming and scanning techniques for instantly finding target facts."
-        - "Cognitive Endurance: The ability to maintain peak concentration and productivity when working with complex academic literature."
+        - "Cognitive Endurance: The\_ability to maintain peak concentration and productivity when working with complex academic literature."

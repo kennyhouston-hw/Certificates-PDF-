@@ -4,62 +4,62 @@
 id: speed-reading-8-9
 template: competencies
 title:
-  ru: Скорочтение для детей 8–9 лет
+  ru: "Скорочтение для\_детей 8–9\_лет"
   en: Speed Reading Course for Children Ages 8–9
 levels:
   - id: beginner
     skills:
       ru:
-        - "Ликвидация регрессий: избавление от привычки возвратного движения глаз (перечитывания слов по несколько раз)."
-        - "Концентрация внимания: умение удерживать фокус на строке, не теряя нить повествования и не отвлекаясь на внешние шумы."
-        - "Синхронизация восприятия: настройка баланса между скоростью движения глаз и скоростью осознания прочитанного."
-        - "Чёткая артикуляция: развитие речевого аппарата для уверенного и плавного чтения вслух без «запинок» и искажений окончаний."
-        - "Первичный смысловой анализ: умение с первого прочтения отвечать на базовые вопросы к тексту."
+        - "Ликвидация регрессий: избавление от\_привычки возвратного движения глаз (перечитывания слов по\_несколько раз)."
+        - "Концентрация внимания: умение удерживать фокус на\_строке, не\_теряя нить повествования и\_не\_отвлекаясь на\_внешние шумы."
+        - "Синхронизация восприятия: настройка баланса между скоростью движения глаз и\_скоростью осознания прочитанного."
+        - "Чёткая артикуляция: развитие речевого аппарата для\_уверенного и\_плавного чтения вслух без\_«запинок» и\_искажений окончаний."
+        - "Первичный смысловой анализ: умение с\_первого прочтения отвечать на\_базовые вопросы к\_тексту."
       en:
-        - "Eliminating Regressions: Breaking the habit of backward eye movements (re-reading words multiple times)."
-        - "Focused Attention: The ability to stay on a line, maintaining the narrative thread without being distracted by external noise."
-        - "Perceptual Synchronization: Balancing the speed of eye movement with the speed of comprehending what is read."
-        - "Clear Articulation: Developing the speech apparatus for confident and fluent reading aloud without hesitations or distorted word endings."
-        - "Basic Comprehension: The ability to answer basic questions about the text after the first reading."
+        - "Eliminating Regressions: Breaking the\_habit of backward eye movements (re-reading words multiple times)."
+        - "Focused Attention: The\_ability to stay on a\_line, maintaining the\_narrative thread without being distracted by external noise."
+        - "Perceptual Synchronization: Balancing the\_speed of eye movement with the\_speed of comprehending what is read."
+        - "Clear Articulation: Developing the\_speech apparatus for confident and fluent reading aloud without hesitations or distorted word endings."
+        - "Basic Comprehension: The\_ability to answer basic questions about the\_text after the\_first reading."
   - id: basic
     skills:
       ru:
-        - "Скоростной синтез слов: переход к мгновенному узнаванию целых слов и словосочетаний без деления на слоги."
-        - "Расширение зрительного охвата: тренировка периферического зрения для фиксации нескольких слов за один взгляд (сокращение числа остановок глаз)."
-        - "Оперативная память: развитие способности удерживать в уме большой объём информации до момента завершения абзаца."
-        - "Автоматизация темпа: стабильное увеличение скорости чтения в 1.5–2 раза при сохранении 100% плавности и выразительности."
-        - "Предвосхищение смысла: умение мозга предугадывать следующее слово по смыслу, что значительно ускоряет процесс чтения."
+        - "Скоростной синтез слов: переход к\_мгновенному узнаванию целых слов и\_словосочетаний без\_деления на\_слоги."
+        - "Расширение зрительного охвата: тренировка периферического зрения для\_фиксации нескольких слов за\_один взгляд (сокращение числа остановок глаз)."
+        - "Оперативная память: развитие способности удерживать в\_уме большой объём информации до\_момента завершения абзаца."
+        - "Автоматизация темпа: стабильное увеличение скорости чтения в\_1.5–2\_раза при\_сохранении 100%\_плавности и\_выразительности."
+        - "Предвосхищение смысла: умение мозга предугадывать следующее слово по\_смыслу, что значительно ускоряет процесс чтения."
       en:
         - "Rapid Word Recognition: Transitioning to instant recognition of whole words and phrases without dividing them into syllables."
-        - "Expanded Visual Span: Training peripheral vision to capture several words at a single glance (reducing the number of eye fixations)."
-        - "Working Memory: Developing the ability to retain a large amount of information in mind until the end of a paragraph."
-        - "Pace Automation: Consistently increasing reading speed by 1.5–2 times while maintaining 100% fluency and expressiveness."
-        - "Semantic Anticipation: The brain's ability to predict the next word based on context, significantly speeding up the reading process."
+        - "Expanded Visual Span: Training peripheral vision to capture several words at a\_single glance (reducing the\_number of eye fixations)."
+        - "Working Memory: Developing the\_ability to retain a\_large amount of information in mind until the\_end of a\_paragraph."
+        - "Pace Automation: Consistently increasing reading speed by 1.5–2\_times while maintaining 100%\_fluency and expressiveness."
+        - "Semantic Anticipation: The\_brain's ability to predict the\_next word based on context, significantly speeding up the\_reading process."
   - id: intermediate
     skills:
       ru:
-        - "Смысловая декомпозиция: умение самостоятельно разделять текст на логические части и определять микротемы каждого абзаца."
-        - "Качественный пересказ: навык воспроизведения 90% ключевой информации текста с первого прочтения без использования наводящих вопросов."
-        - "Ментальное моделирование: способность строить визуальные схемы (карты) прочитанного для быстрого запоминания сложных фактов."
-        - "Выделение главного: умение фильтровать информацию, отделяя основные тезисы от второстепенных деталей."
-        - "Поисковое сканирование: навык быстрого нахождения конкретной цифры, даты или имени в большом массиве текста за считанные секунды."
+        - "Смысловая декомпозиция: умение самостоятельно разделять текст на\_логические части и\_определять микротемы каждого абзаца."
+        - "Качественный пересказ: навык воспроизведения 90%\_ключевой информации текста с\_первого прочтения без\_использования наводящих вопросов."
+        - "Ментальное моделирование: способность строить визуальные схемы (карты) прочитанного для\_быстрого запоминания сложных фактов."
+        - "Выделение главного: умение фильтровать информацию, отделяя основные тезисы от\_второстепенных деталей."
+        - "Поисковое сканирование: навык быстрого нахождения конкретной цифры, даты или\_имени в\_большом массиве текста за\_считанные секунды."
       en:
-        - "Semantic Decomposition: The ability to independently divide a text into logical parts and identify the micro-themes of each paragraph."
-        - "Quality Retelling: The skill of reproducing 90% of the text's key information after the first reading without leading questions."
-        - "Mental Modeling: The ability to build visual diagrams (maps) of what has been read to quickly memorize complex facts."
-        - "Identifying the Main Idea: The skill of filtering information, separating main points from secondary details."
-        - "Search Scanning: The ability to quickly find a specific number, date, or name within a large body of text in seconds."
+        - "Semantic Decomposition: The\_ability to independently divide a\_text into logical parts and identify the\_micro-themes of each paragraph."
+        - "Quality Retelling: The\_skill of reproducing 90%\_of the\_text's key information after the\_first reading without leading questions."
+        - "Mental Modeling: The\_ability to build visual diagrams (maps) of what has been read to quickly memorize complex facts."
+        - "Identifying the\_Main Idea: The\_skill of filtering information, separating main points from secondary details."
+        - "Search Scanning: The\_ability to quickly find a\_specific number, date, or name within a\_large body of text in seconds."
   - id: advanced
     skills:
       ru:
-        - "Интеллектуальный суверенитет: способность самостоятельно работать с объёмными школьными параграфами и статьями без помощи взрослых."
-        - "Скоростное декодирование: достижение темпа чтения, в 2–3 раза превышающего возрастные нормы, при 100% сохранении качества усвоения."
-        - "Панорамное зрение: навык «сканирования» страницы для мгновенного поиска нужных фактов, дат и ключевых определений."
-        - "Системная память: умение удерживать в уме сложную структуру текста и воспроизводить её через логические связи."
-        - "Читательская зрелость: сформированный навык критического анализа информации и устойчивый интерес к самостоятельному поиску новых знаний."
+        - "Интеллектуальный суверенитет: способность самостоятельно работать с\_объёмными школьными параграфами и\_статьями без\_помощи взрослых."
+        - "Скоростное декодирование: достижение темпа чтения, в\_2–3\_раза превышающего возрастные нормы, при\_100%\_сохранении качества усвоения."
+        - "Панорамное зрение: навык «сканирования» страницы для\_мгновенного поиска нужных фактов, дат и\_ключевых определений."
+        - "Системная память: умение удерживать в\_уме сложную структуру текста и\_воспроизводить её через логические связи."
+        - "Читательская зрелость: сформированный навык критического анализа информации и\_устойчивый интерес к\_самостоятельному поиску новых знаний."
       en:
-        - "Intellectual Sovereignty: The ability to independently work with lengthy school paragraphs and articles without help from adults."
-        - "Speed Decoding: Achieving a reading pace 2–3 times higher than age-appropriate norms while maintaining 100% comprehension quality."
-        - 'Panoramic Vision: The skill of "scanning" a page to instantly find needed facts, dates, and key definitions.'
-        - "Systemic Memory: The ability to retain the complex structure of a text in mind and reproduce it through logical connections."
-        - "Reading Maturity: A developed skill for critical analysis of information and a sustained interest in independently seeking new knowledge."
+        - "Intellectual Sovereignty: The\_ability to independently work with lengthy school paragraphs and articles without help from adults."
+        - "Speed Decoding: Achieving a\_reading pace 2–3\_times higher than age-appropriate norms while maintaining 100%\_comprehension quality."
+        - "Panoramic Vision: The\_skill of \"scanning\" a\_page to instantly find needed facts, dates, and key definitions."
+        - "Systemic Memory: The\_ability to retain the\_complex structure of a\_text in mind and reproduce it through logical connections."
+        - "Reading Maturity: A\_developed skill for critical analysis of information and a\_sustained interest in independently seeking new knowledge."

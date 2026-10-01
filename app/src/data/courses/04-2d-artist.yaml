@@ -4,7 +4,7 @@
 id: 2d-artist
 title:
   ru: "2D художник: основы профессии"
-  en: "2D artist: the basics of the profession"
+  en: "2D artist: the\_basics of the\_profession"
 levels:
   - id: beginner
     skills:
@@ -15,7 +15,7 @@ levels:
         - эффекты, текст, иконки
         - жанры иллюстраций
       en:
-        - "the basics of the Figma editor: stroke, shape, layer"
+        - "the\_basics of the\_Figma editor: stroke, shape, layer"
         - composition basics
         - contrast, color contrast
         - effects, text

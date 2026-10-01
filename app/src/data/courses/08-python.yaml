@@ -3,22 +3,22 @@
 
 id: python
 title:
-  ru: Программирование на языке Python
+  ru: "Программирование на\_языке Python"
   en: Python programming language
 levels:
   - id: preliminary
     skills:
       ru:
-        - условия, циклы, функции в формате блоков
-        - переменные и списки
-        - работа с библиотекой Turtle
+        - "условия, циклы, функции в\_формате блоков"
+        - "переменные и\_списки"
+        - "работа с\_библиотекой Turtle"
         - создание простой анимации
-        - обработка событий с клавиатуры
-        - команды ввода и вывода информации
+        - "обработка событий с\_клавиатуры"
+        - "команды ввода и\_вывода информации"
       en:
         - conditions, loops, and functions in block-based programming
         - variables and lists
-        - working with the Turtle library
+        - "working with the\_Turtle library"
         - creating simple animations
         - handling keyboard events
         - input and output commands
@@ -28,9 +28,9 @@ levels:
         - переменные, списки, типы данных
         - условия, циклы, функции
         - создание консольных программ
-        - создание программ с графическим интерфейсом
-        - работа с файлами (открытие, чтение, запись)
-        - знакомство с классами и наследованием
+        - "создание программ с\_графическим интерфейсом"
+        - "работа с\_файлами (открытие, чтение, запись)"
+        - "знакомство с\_классами и\_наследованием"
       en:
         - variables, lists, and data types
         - conditions, loops, and functions
@@ -42,22 +42,22 @@ levels:
     skills:
       ru:
         - объектно-ориентированное программирование (ООП)
-        - библиотека Arcade для создания 2D игр
-        - основы создания игр и построения игровой логики
+        - "библиотека Arcade для\_создания 2D игр"
+        - "основы создания игр и\_построения игровой логики"
         - движение объектов, анимация, звуки
-        - работа с физическим движком
+        - "работа с\_физическим движком"
       en:
         - object-oriented programming (OOP)
-        - the Arcade library for creating 2D games
+        - "the\_Arcade library for creating 2D games"
         - fundamentals of game development and game logic design
         - object movement, animation, and sound
-        - working with a physics engine
+        - "working with a\_physics engine"
   - id: intermediate
     skills:
       ru:
-        - создание чат-ботов для Телеграм
-        - работа с базами данных
-        - работа с запросами
+        - "создание чат-ботов для\_Телеграм"
+        - "работа с\_базами данных"
+        - "работа с\_запросами"
         - структуры данных (списки, словари)
         - обработка исключений
       en:
@@ -72,9 +72,9 @@ levels:
         - архитектура фреймворка Django
         - принципы создания серверных веб-приложений
         - паттерн Model-View-Template (MTV)
-        - POST-запросы и GET-запросы
-        - регистрация и авторизация пользователя на сайте
-        - основы HTML и CSS
+        - "POST-запросы и\_GET-запросы"
+        - "регистрация и\_авторизация пользователя на\_сайте"
+        - "основы HTML и\_CSS"
       en:
         - Django framework architecture
         - principles of building server-side web applications
