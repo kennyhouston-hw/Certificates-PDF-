@@ -88,5 +88,7 @@ export function useCertificateForm() {
     levelCaption: levelDefinition?.caption[lang] ?? "",
     certLevelLabel: levelDefinition?.title[lang] ?? "",
     formattedDate: formatCertificateDate(date, lang),
+    // "Бычкова Юлия · Основы цифрового рисования · Начальный", in the certificate's language.
+    fileName: [name.trim(), course?.title[lang], levelDefinition?.short[lang]].filter(Boolean).join(" · "),
   };
 }

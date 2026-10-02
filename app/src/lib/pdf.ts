@@ -3,7 +3,7 @@ import { jsPDF } from "jspdf";
 
 const A4 = { width: 842, height: 595 };
 
-export async function generateCertificatePdf(node: HTMLElement): Promise<void> {
+export async function generateCertificatePdf(node: HTMLElement, fileName: string): Promise<void> {
   const canvas = await html2canvas(node, {
     scale: 4,
     useCORS: true,
@@ -32,7 +32,12 @@ export async function generateCertificatePdf(node: HTMLElement): Promise<void> {
   });
 
   pdf.addImage(canvas.toDataURL("image/jpeg", 0.8), "JPEG", 0, 0, A4.width, A4.height);
-  pdf.save("certificate.pdf");
+  pdf.save(`${toSafeFileName(fileName) || "certificate"}.pdf`);
+}
+
+// Drops characters that Windows or macOS don't allow in file names (e.g. ":" in course titles).
+function toSafeFileName(name: string) {
+  return name.replace(/[\\/:*?"<>|]+/g, " ").replace(/\s+/g, " ").trim();
 }
 
 // html2canvas copies <style> tags into its clone, but <link> stylesheets are re-downloaded

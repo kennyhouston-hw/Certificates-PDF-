@@ -20,7 +20,7 @@ function App() {
     if (!previewRef.current) return;
 
     try {
-      await generateCertificatePdf(previewRef.current);
+      await generateCertificatePdf(previewRef.current, form.fileName);
     } catch (err) {
       const message = err instanceof Error ? err.message : String(err);
       setError(`${form.langData.pdfErrorMessagePrefix ?? "Ошибка:"} ${message}`);
