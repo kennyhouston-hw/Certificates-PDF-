@@ -82,3 +82,19 @@ levels:
         - POST and GET requests
         - user registration and authentication on websites
         - fundamentals of HTML and CSS
+  - id: additional
+    skills:
+      ru:
+        - алгоритмы поиска
+        - рекурсия и математические алгоритмы
+        - системы счисления
+        - алгоритмы сортировки
+        - алгоритмы обработки чисел и строк
+        - структуры данных
+      en:
+        - search algorithms
+        - recursion and mathematical algorithms
+        - numeral systems
+        - sorting algorithms
+        - algorithms for processing numbers and strings
+        - data structures
